@@ -1,0 +1,188 @@
+middleware contiki-ng azure iniciado, sensor en http://[fd00::202:2:2:2]/
+cliente conectado a azure iot hub
+sensor: { temp: 36, hum: 86 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":36,"humidity":86}
+send status: MessageEnqueued
+sensor: { temp: 28, hum: 81 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":28,"humidity":81}
+send status: MessageEnqueued
+sensor: { temp: 15, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":15,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 31, hum: 84 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":31,"humidity":84}
+send status: MessageEnqueued
+sensor: { temp: 23, hum: 87 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":23,"humidity":87}
+send status: MessageEnqueued
+sensor: { temp: 21, hum: 80 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":21,"humidity":80}
+send status: MessageEnqueued
+sensor: { temp: 25, hum: 80 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":25,"humidity":80}
+send status: MessageEnqueued
+sensor: { temp: 30, hum: 86 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":30,"humidity":86}
+send status: MessageEnqueued
+sensor: { temp: 34, hum: 80 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":34,"humidity":80}
+send status: MessageEnqueued
+sensor: { temp: 24, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":24,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 16, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":16,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 26, hum: 87 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":26,"humidity":87}
+send status: MessageEnqueued
+sensor: { temp: 32, hum: 84 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":32,"humidity":84}
+send status: MessageEnqueued
+sensor: { temp: 20, hum: 87 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":20,"humidity":87}
+send status: MessageEnqueued
+sensor: { temp: 29, hum: 82 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":29,"humidity":82}
+send status: MessageEnqueued
+sensor: { temp: 32, hum: 81 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":32,"humidity":81}
+send status: MessageEnqueued
+sensor: { temp: 33, hum: 87 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":33,"humidity":87}
+send status: MessageEnqueued
+sensor: { temp: 21, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":21,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 18, hum: 81 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":18,"humidity":81}
+send status: MessageEnqueued
+sensor: { temp: 18, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":18,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 39, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":39,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 17, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":17,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 36, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":36,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 22, hum: 84 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":22,"humidity":84}
+send status: MessageEnqueued
+sensor: { temp: 16, hum: 81 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":16,"humidity":81}
+send status: MessageEnqueued
+sensor: { temp: 21, hum: 85 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":21,"humidity":85}
+send status: MessageEnqueued
+sensor: { temp: 15, hum: 84 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":15,"humidity":84}
+send status: MessageEnqueued
+sensor: { temp: 24, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":24,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 16, hum: 83 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":16,"humidity":83}
+send status: MessageEnqueued
+sensor: { temp: 23, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":23,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 23, hum: 86 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":23,"humidity":86}
+send status: MessageEnqueued
+sensor: { temp: 23, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":23,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 15, hum: 81 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":15,"humidity":81}
+send status: MessageEnqueued
+sensor: { temp: 33, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":33,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 33, hum: 86 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":33,"humidity":86}
+send status: MessageEnqueued
+sensor: { temp: 30, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":30,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 39, hum: 80 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":39,"humidity":80}
+send status: MessageEnqueued
+sensor: { temp: 18, hum: 84 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":18,"humidity":84}
+send status: MessageEnqueued
+sensor: { temp: 21, hum: 86 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":21,"humidity":86}
+send status: MessageEnqueued
+sensor: { temp: 34, hum: 80 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":34,"humidity":80}
+send status: MessageEnqueued
+sensor: { temp: 34, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":34,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 21, hum: 81 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":21,"humidity":81}
+send status: MessageEnqueued
+sensor: { temp: 17, hum: 83 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":17,"humidity":83}
+send status: MessageEnqueued
+sensor: { temp: 25, hum: 85 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":25,"humidity":85}
+send status: MessageEnqueued
+sensor: { temp: 33, hum: 80 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":33,"humidity":80}
+send status: MessageEnqueued
+sensor: { temp: 30, hum: 81 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":30,"humidity":81}
+send status: MessageEnqueued
+sensor: { temp: 37, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":37,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 30, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":30,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 18, hum: 80 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":18,"humidity":80}
+send status: MessageEnqueued
+sensor: { temp: 33, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":33,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 28, hum: 83 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":28,"humidity":83}
+send status: MessageEnqueued
+sensor: { temp: 31, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":31,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 36, hum: 84 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":36,"humidity":84}
+send status: MessageEnqueued
+sensor: { temp: 19, hum: 88 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":19,"humidity":88}
+send status: MessageEnqueued
+sensor: { temp: 24, hum: 84 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":24,"humidity":84}
+send status: MessageEnqueued
+sensor: { temp: 35, hum: 82 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":35,"humidity":82}
+send status: MessageEnqueued
+sensor: { temp: 18, hum: 82 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":18,"humidity":82}
+send status: MessageEnqueued
+sensor: { temp: 39, hum: 86 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":39,"humidity":86}
+send status: MessageEnqueued
+sensor: { temp: 15, hum: 89 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":15,"humidity":89}
+send status: MessageEnqueued
+sensor: { temp: 15, hum: 82 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":15,"humidity":82}
+send status: MessageEnqueued
+sensor: { temp: 16, hum: 83 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":16,"humidity":83}
+send status: MessageEnqueued
+sensor: { temp: 22, hum: 87 }
+mandando mensaje: {"deviceId":"contiki-ng-01","temperature":22,"humidity":87}
+send status: MessageEnqueued

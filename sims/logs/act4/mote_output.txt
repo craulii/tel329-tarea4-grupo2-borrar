@@ -1,0 +1,485 @@
+236 ms ID:2 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+236 ms ID:2 [INFO: Main      ] - Routing: RPL Lite
+236 ms ID:2 [INFO: Main      ] - Net: sicslowpan
+236 ms ID:2 [INFO: Main      ] - MAC: CSMA
+236 ms ID:2 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+236 ms ID:2 [INFO: Main      ] - 802.15.4 Default channel: 26
+236 ms ID:2 [INFO: Main      ] Node ID: 2
+236 ms ID:2 [INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+236 ms ID:2 [INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+236 ms ID:2 servidor web del sensor escuchando en el puerto 80
+382 ms ID:1 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+382 ms ID:1 [INFO: Main      ] - Routing: RPL Lite
+382 ms ID:1 [INFO: Main      ] - Net: sicslowpan
+382 ms ID:1 [INFO: Main      ] - MAC: CSMA
+382 ms ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+382 ms ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+382 ms ID:1 [INFO: Main      ] Node ID: 1
+382 ms ID:1 [INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+382 ms ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+382 ms ID:1 [INFO: RPL BR    ] Contiki-NG Border Router started
+382 ms ID:1 [INFO: BR        ] RPL-Border router started
+1382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+2382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+3382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+4382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+5382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+6382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+7382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+8382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+8382 ms ID:1 [INFO: BR        ] Server IPv6 addresses:
+8382 ms ID:1 [INFO: BR        ]   fd00::201:1:1:1
+8382 ms ID:1 [INFO: BR        ]   fe80::201:1:1:1
+25761.728 ms ID:1 `?PﾪNﾰB]]`ￄￄ`i?PﾪNﾰB]ﾭPￄdHTTP/1.0 200 OK
+25761.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+25761.728 ms ID:1 Connection: close
+25833.912 ms ID:1 `/?PﾪNVﾰB]ﾭPￄ:ﾶContent-type: text/html
+25833.912 ms ID:1 
+25906.176 ms ID:2 consulta 1, mando json: {"temp":27,"hum":81}
+35685.728 ms ID:1 `(?PﾪNqﾰB]ﾭPￄￗ{"temp":27,"hum":81}`?PﾪNﾅﾰB]ﾭPￄ`?PﾪNﾆﾰB]ﾮPￄ`?Pﾐ"qﾊ`ￄﾇ:ￄ`i?Pﾐ"qﾊ?Pￄ+HTTP/1.0 200 OK
+35685.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+35685.728 ms ID:1 Connection: close
+35747.912 ms ID:1 `/?Pﾐ"hqﾊ?PￄContent-type: text/html
+35747.912 ms ID:1 
+35809.176 ms ID:2 consulta 2, mando json: {"temp":28,"hum":82}
+38567.728 ms ID:1 `(?Pﾐ"ﾃqﾊ?Pￄ}Q{"temp":28,"hum":82}`?Pﾐ"ﾗqﾊ?Pￄﾝ2`?Pﾐ"ﾘqﾊ@Pￄﾝ1`?Pﾽtﾒￔ/`ￄﾑￄ`i?PﾽtﾒￔPￄHTTP/1.0 200 OK
+38567.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+38567.728 ms ID:1 Connection: close
+38696.912 ms ID:1 `/?PﾽttﾒￔPￄￇContent-type: text/html
+38696.912 ms ID:1 
+38773.176 ms ID:2 consulta 3, mando json: {"temp":27,"hum":85}
+41516.728 ms ID:1 `(?PﾽﾏtﾒￔPￄﾄ#{"temp":27,"hum":85}`?PﾽﾣtﾒￔPￄﾧ`?PﾽﾤtﾒￔﾀPￄﾧ`?Pﾾ0ￔAp`ￄￄ`i?Pﾾ1ￔAￛￜPￄﾤHTTP/1.0 200 OK
+41516.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+41516.728 ms ID:1 Connection: close
+41588.088 ms ID:1 `/?PﾾﾆￔAￛￜPￄzﾻContent-type: text/html
+41588.088 ms ID:1 
+41674.176 ms ID:2 consulta 4, mando json: {"temp":20,"hum":85}
+159822.728 ms ID:1 `(?PﾾﾡￔAￛￜPￄ{"temp":20,"hum":85}`?PﾾﾵￔAￛￜPￄ5`?PﾾﾶￔAPￄ5`?Pﾚﾟﾪv^`ￄﾓ^ￄ`i?Pﾚﾟﾪw
+159822.728 ms ID:1 PￄHTTP/1.0 200 OK
+159822.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+159822.728 ms ID:1 Connection: close
+159885.912 ms ID:1 `/?Pﾚ<ﾟﾪw
+159885.912 ms ID:1 PￄﾾContent-type: text/html
+159885.912 ms ID:1 
+159938.176 ms ID:2 consulta 5, mando json: {"temp":36,"hum":86}
+159950.688 ms ID:1 `(?PﾚWﾟﾪw
+160063.048 ms ID:1 Pￄﾄ{"temp":36,"hum":86}`?Pﾚkﾟﾪw
+163095.728 ms ID:1 Pￄﾨ`?PﾚlﾟﾪwPￄﾨ`?PﾦSﾫﾏ`ￄￆﾗￄ`i?PﾦSﾫﾏPￄK,HTTP/1.0 200 OK
+163095.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+163095.728 ms ID:1 Connection: close
+163159.912 ms ID:1 `/?PﾦASﾫﾏPￄ Content-type: text/html
+163159.912 ms ID:1 
+163206.176 ms ID:2 consulta 6, mando json: {"temp":28,"hum":81}
+166110.728 ms ID:1 `(?Pﾦ\SﾫﾏPￄﾽR{"temp":28,"hum":81}`?PﾦpSﾫﾏPￄￜ3`?PﾦqSﾫﾏￛￜPￄￜ2`?Pￋￛￜ46ￊ`ￄﾣ/ￄ`i?Pￋￛￜ46vPￄ'ￄHTTP/1.0 200 OK
+166110.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+166110.728 ms ID:1 Connection: close
+166193.912 ms ID:1 `/?PￋￛￜM46vPￄﾏContent-type: text/html
+166193.912 ms ID:1 
+166262.176 ms ID:2 consulta 7, mando json: {"temp":15,"hum":89}
+169052.824 ms ID:1 `(?Pￋￛￜh46vPￄﾒ{"temp":15,"hum":89}`?Pￋￛￜ|46vPￄﾸￋ`?Pￋￛￜ}46wPￄﾸￊ`?Pￋ	kl`ￄￄ`i?Pￋ
+169052.824 ms ID:1 kmﾤPￄvﾘHTTP/1.0 200 OK
+169052.824 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+169052.824 ms ID:1 Connection: close
+169173.912 ms ID:1 `/?Pￋ_kmﾤPￄLdContent-type: text/html
+169173.912 ms ID:1 
+169253.176 ms ID:2 consulta 8, mando json: {"temp":31,"hum":84}
+172056.728 ms ID:1 `(?PￋzkmﾤPￄￅ{"temp":31,"hum":84}`?PￋﾎkmﾤPￄﾠ`?PￋﾏkmﾥPￄﾟ`?Pￋￖ!vq`ￄYﾕￄ`i?Pￋￖ"wPￄ)HTTP/1.0 200 OK
+172056.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+172056.728 ms ID:1 Connection: close
+172134.912 ms ID:1 `/?PￋￖwwPￄﾳContent-type: text/html
+172134.912 ms ID:1 
+172217.176 ms ID:2 consulta 9, mando json: {"temp":23,"hum":87}
+175098.728 ms ID:1 `(?PￋￖﾒwPￄJU{"temp":23,"hum":87}`?PￋￖﾦwPￄo1`?PￋￖﾧwPￄo0`?Pￋ?ﾫﾖ`ￄkￄ`i?Pￋ@ﾫﾖﾱPￄﾩHTTP/1.0 200 OK
+175098.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+175098.728 ms ID:1 Connection: close
+175216.912 ms ID:1 `/?PￋﾕﾫﾖﾱPￄￅuContent-type: text/html
+175216.912 ms ID:1 
+175274.176 ms ID:2 consulta 10, mando json: {"temp":21,"hum":80}
+177764.728 ms ID:1 `(?PￋﾰﾫﾖﾱPￄbￗ{"temp":21,"hum":80}`?PￋￄﾫﾖﾱPￄﾀﾱ`?PￋￅﾫﾖﾲPￄﾀﾰ`?Pcﾅﾴ`ￄￋￄ`i?PdﾅﾴﾹPￄﾡ_HTTP/1.0 200 OK
+177764.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+177764.728 ms ID:1 Connection: close
+177844.912 ms ID:1 `/?PﾹﾅﾴﾹPￄw+Content-type: text/html
+177844.912 ms ID:1 
+177932.176 ms ID:2 consulta 11, mando json: {"temp":25,"hum":80}
+181029.728 ms ID:1 `(?PￔﾅﾴﾹPￄﾉ{"temp":25,"hum":80}`?PﾅﾴﾹPￄ2g`?PﾅﾴﾺPￄ2f`?Pﾍ,!^`ￄzￒￄ`i?Pﾎ,"
+181029.728 ms ID:1 PￄfHTTP/1.0 200 OK
+181029.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+181029.728 ms ID:1 Connection: close
+181122.912 ms ID:1 `/?P,"
+181122.912 ms ID:1 Pￄￕ2Content-type: text/html
+181122.912 ms ID:1 
+181205.176 ms ID:2 consulta 12, mando json: {"temp":30,"hum":86}
+181239.688 ms ID:1 `(?P,"
+181355.048 ms ID:1 Pￄkﾕ{"temp":30,"hum":86}`?P,"
+184029.728 ms ID:1 Pￄﾐn`?P,"Pￄﾐm`?Pﾽﾲrﾄﾯ`ￄzￄ`i?Pﾾﾲrﾅ[PￄﾖHTTP/1.0 200 OK
+184029.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+184029.728 ms ID:1 Connection: close
+184132.912 ms ID:1 `/?Pﾲrﾅ[PￄￔbContent-type: text/html
+184132.912 ms ID:1 
+184209.176 ms ID:2 consulta 13, mando json: {"temp":34,"hum":80}
+187102.728 ms ID:1 `(?P.ﾲrﾅ[Pￄp{"temp":34,"hum":80}`?PBﾲrﾅ[Pￄﾏﾞ`?PCﾲrﾅ\Pￄﾏﾝ`?Pﾥﾢￖﾀﾧￂ`ￄqￄ`i?PﾥﾢￖﾀﾨnPￄﾩHTTP/1.0 200 OK
+187102.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+187102.728 ms ID:1 Connection: close
+187177.912 ms ID:1 `/?PﾥﾢCￖﾀﾨnPￄￋuContent-type: text/html
+187177.912 ms ID:1 
+187247.176 ms ID:2 consulta 14, mando json: {"temp":24,"hum":88}
+190077.728 ms ID:1 `(?Pﾥﾢ^ￖﾀﾨnPￄ`ￔ{"temp":24,"hum":88}`?PﾥﾢrￖﾀﾨnPￄﾆﾱ`?PﾥﾢsￖﾀﾨoPￄﾆﾰ`?PﾥﾦTￔ`ￄﾺRￄ`i?PﾥﾦTﾀPￄ>HTTP/1.0 200 OK
+190077.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+190077.728 ms ID:1 Connection: close
+190151.912 ms ID:1 `/?PﾥﾦsTﾀPￄﾳContent-type: text/html
+190151.912 ms ID:1 
+190226.176 ms ID:2 consulta 15, mando json: {"temp":16,"hum":88}
+193044.728 ms ID:1 `(?PﾥﾦﾎTﾀPￄﾫ{"temp":16,"hum":88}`?PﾥﾦﾢTﾀPￄￏ`?PﾥﾦﾣTﾁPￄￏ`?PﾥﾶMsￕu`ￄￄ`i?PﾥﾶNsￖ!PￄﾈﾐHTTP/1.0 200 OK
+193044.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+193044.728 ms ID:1 Connection: close
+193156.912 ms ID:1 `/?Pﾥﾶﾣsￖ!Pￄ^\Content-type: text/html
+193156.912 ms ID:1 
+193208.176 ms ID:2 consulta 16, mando json: {"temp":26,"hum":87}
+196022.728 ms ID:1 `(?Pﾥﾶﾾsￖ!Pￄﾸ{"temp":26,"hum":87}`?Pﾥﾶￒsￖ!Pￄﾘ`?Pﾥﾶￓsￖ"Pￄﾗ`?Pￂ}ￗￃ`ￄￄ`i?Pￂ~ￗￃﾎPￄﾟﾀHTTP/1.0 200 OK
+196022.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+196022.728 ms ID:1 Connection: close
+196097.912 ms ID:1 `/?PￂￓￗￃﾎPￄuLContent-type: text/html
+196097.912 ms ID:1 
+196155.176 ms ID:2 consulta 17, mando json: {"temp":32,"hum":84}
+199120.728 ms ID:1 `(?PￂￗￃﾎPￄﾭ{"temp":32,"hum":84}`?PￂￗￃﾎPￄ0ﾈ`?PￂￗￃﾏPￄ0ﾇ`?Pￂￜﾭ;*`ￄￄ`i?Pￂￜﾮ;ￖPￄﾗﾌHTTP/1.0 200 OK
+199120.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+199120.728 ms ID:1 Connection: close
+199243.912 ms ID:1 `/?Pￂￜ;ￖPￄmXContent-type: text/html
+199243.912 ms ID:1 
+199294.176 ms ID:2 consulta 18, mando json: {"temp":20,"hum":87}
+202115.728 ms ID:1 `(?Pￂￜ;ￖPￄﾻ{"temp":20,"hum":87}`?Pￂￜ2;ￖPￄ(ﾔ`?Pￂￜ3;ￗPￄ(ﾓ`?Pￂﾭm`ￄￛￄ`i?PￂﾭPￄ_ﾚHTTP/1.0 200 OK
+202115.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+202115.728 ms ID:1 Connection: close
+202202.912 ms ID:1 `/?Pￂ3ﾭPￄ5fContent-type: text/html
+202202.912 ms ID:1 
+202279.176 ms ID:2 consulta 19, mando json: {"temp":29,"hum":82}
+205026.728 ms ID:1 `(?PￂNﾭPￄ{"temp":29,"hum":82}`?PￂbﾭPￄﾡ`?PￂcﾭPￄﾠ`?PￂEWy`ￄ3ﾄￄ`i?PￂEX%PￄﾸHTTP/1.0 200 OK
+205026.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+205026.728 ms ID:1 Connection: close
+205101.912 ms ID:1 `/?PￂcEX%PￄﾍContent-type: text/html
+205101.912 ms ID:1 
+205154.176 ms ID:2 consulta 20, mando json: {"temp":32,"hum":81}
+208073.728 ms ID:1 `(?Pￂ~EX%Pￄ)E{"temp":32,"hum":81}`?PￂﾒEX%PￄI `?PￂﾓEX&PￄI`?Pﾓﾼ=:`ￄￎﾥￄ`i?Pﾓﾼ>PￄS:HTTP/1.0 200 OK
+208073.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+208073.728 ms ID:1 Connection: close
+208144.912 ms ID:1 `/?PﾓﾼﾓPￄ)Content-type: text/html
+208144.912 ms ID:1 
+208195.176 ms ID:2 consulta 21, mando json: {"temp":33,"hum":87}
+211043.728 ms ID:1 `(?PﾓﾼﾮPￄﾾe{"temp":33,"hum":87}`?PﾓﾼￂPￄA`?PﾓﾼￃPￄ@`?Pﾓￆmﾧd\`ￄGￄ`i?PﾓￆnﾧdPￄￌﾈHTTP/1.0 200 OK
+211043.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+211043.728 ms ID:1 Connection: close
+211139.912 ms ID:1 `/?PﾓￆￃﾧdPￄﾢTContent-type: text/html
+211139.912 ms ID:1 
+211202.176 ms ID:2 consulta 22, mando json: {"temp":21,"hum":88}
+214078.728 ms ID:1 `(?PﾓￆﾧdPￄ7ﾶ{"temp":21,"hum":88}`?PﾓￆﾧdPￄ]ﾐ`?Pﾓￆﾧd	Pￄ]ﾏ`?Pﾓￔﾝ-\}`ￄﾉￌￄ`i?Pﾓￔﾞ-])PￄaHTTP/1.0 200 OK
+214078.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+214078.728 ms ID:1 Connection: close
+214169.912 ms ID:1 `/?Pﾓￔ-])Pￄ,Content-type: text/html
+214169.912 ms ID:1 
+214224.176 ms ID:2 consulta 23, mando json: {"temp":18,"hum":81}
+217105.728 ms ID:1 `(?Pﾓￔ-])Pￄﾁﾇ{"temp":18,"hum":81}`?Pﾓￔ"-])Pￄﾟh`?Pﾓￔ#-]*Pￄﾟg`?Pﾯﾌￍﾚￗ`ￄrjￄ`i?PﾯﾌￎﾚￗￂPￄHTTP/1.0 200 OK
+217105.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+217105.728 ms ID:1 Connection: close
+217204.912 ms ID:1 `/?Pﾯﾌ#ﾚￗￂPￄￌￊContent-type: text/html
+217204.912 ms ID:1 
+217293.176 ms ID:2 consulta 24, mando json: {"temp":18,"hum":88}
+219741.728 ms ID:1 `(?Pﾯﾌ>ﾚￗￂPￄc%{"temp":18,"hum":88}`?PﾯﾌRﾚￗￂPￄﾈ`?PﾯﾌSﾚￗￃPￄﾈ`?Pﾯﾒﾔﾝﾇd`ￄￇVￄ`i?PﾯﾒﾔﾝﾈPￄKHTTP/1.0 200 OK
+219741.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+219741.728 ms ID:1 Connection: close
+219862.912 ms ID:1 `/?PﾯﾒSﾔﾝﾈPￄ!ﾷContent-type: text/html
+219862.912 ms ID:1 
+219945.176 ms ID:2 consulta 25, mando json: {"temp":39,"hum":89}
+222795.728 ms ID:1 `(?PﾯﾒnﾔﾝﾈPￄﾵ{"temp":39,"hum":89}`?PﾯﾒﾂﾔﾝﾈPￄￜ`?PﾯﾒﾃﾔﾝﾈPￄￜ`?Pﾯﾞ-[ﾋ7`ￄYￄ`i?Pﾯﾞ.[ﾋPￄCHTTP/1.0 200 OK
+222795.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+222795.728 ms ID:1 Connection: close
+222886.912 ms ID:1 `/?Pﾯﾞﾃ[ﾋPￄﾺContent-type: text/html
+222886.912 ms ID:1 
+222939.176 ms ID:2 consulta 26, mando json: {"temp":17,"hum":89}
+225778.728 ms ID:1 `(?Pﾯﾞﾞ[ﾋPￄﾯ{"temp":17,"hum":89}`?Pﾯﾞﾲ[ﾋPￄￔ`?Pﾯﾞﾳ[ﾋPￄￔ`?P]ￏﾵ`ￄﾩ%ￄ`i?P^ￏaPￄ-ﾺHTTP/1.0 200 OK
+225778.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+225778.728 ms ID:1 Connection: close
+225885.912 ms ID:1 `/?PﾳￏaPￄﾆContent-type: text/html
+225885.912 ms ID:1 
+225961.176 ms ID:2 consulta 27, mando json: {"temp":36,"hum":89}
+228635.176 ms ID:1 `(?PￎￏaPￄﾖ{"temp":36,"hum":89}`?PￏaPￄﾾ`?PￏbPￄﾾￛￜ`?Pﾍﾋ1
+229058.728 ms ID:1 K`ￄￄ`i?Pﾎﾋ1
+229058.728 ms ID:1 PￄﾚﾂHTTP/1.0 200 OK
+229058.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+229058.728 ms ID:1 Connection: close
+229125.088 ms ID:1 `/?Pﾋ1
+229125.088 ms ID:1 PￄpNContent-type: text/html
+229125.088 ms ID:1 
+229182.176 ms ID:2 consulta 28, mando json: {"temp":22,"hum":84}
+229198.688 ms ID:1 `(?Pﾋ1
+229332.048 ms ID:1 Pￄ	ﾯ{"temp":22,"hum":84}`?Pﾋ1
+229432.048 ms ID:1 Pￄ+ﾊ`?Pﾋ1
+232087.728 ms ID:1 Pￄ+ﾉ`?Pﾽ'^`ￄￃￄ`i?Pﾾ'ￛￜ
+232087.728 ms ID:1 PￄHﾆHTTP/1.0 200 OK
+232087.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+232087.728 ms ID:1 Connection: close
+232152.912 ms ID:1 `/?P'ￛￜ
+232152.912 ms ID:1 PￄRContent-type: text/html
+232152.912 ms ID:1 
+232231.176 ms ID:2 consulta 29, mando json: {"temp":16,"hum":81}
+232275.688 ms ID:1 `(?P.'ￛￜ
+232392.048 ms ID:1 Pￄﾻﾮ{"temp":16,"hum":81}`?PB'ￛￜ
+235050.728 ms ID:1 Pￄﾍ`?PC'ￛￜPￄﾌ`?P;Nﾼ`ￄﾳﾧￄ`i?P;NﾼﾮPￄ8<HTTP/1.0 200 OK
+235050.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+235050.728 ms ID:1 Connection: close
+235138.912 ms ID:1 `/?PC;NﾼﾮPￄContent-type: text/html
+235138.912 ms ID:1 
+235222.176 ms ID:2 consulta 30, mando json: {"temp":21,"hum":85}
+237810.728 ms ID:1 `(?P^;NﾼﾮPￄﾦi{"temp":21,"hum":85}`?Pr;NﾼﾮPￄC`?Ps;NﾼﾯPￄB`?P&Z[ￅ`ￄTﾄￄ`i?P&Z[qPￄHTTP/1.0 200 OK
+237810.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+237810.728 ms ID:1 Connection: close
+237881.912 ms ID:1 `/?P&sZ[qPￄﾮContent-type: text/html
+237881.912 ms ID:1 
+237936.176 ms ID:2 consulta 31, mando json: {"temp":15,"hum":84}
+241092.728 ms ID:1 `(?P&ﾎZ[qPￄIB{"temp":15,"hum":84}`?P&ﾢZ[qPￄj `?P&ﾣZ[rPￄj`?P(MZﾄﾃ`ￄ/ﾔￄ`i?P(NZﾅ/Pￄﾴ(HTTP/1.0 200 OK
+241092.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+241092.728 ms ID:1 Connection: close
+241211.912 ms ID:1 `/?P(ﾣZﾅ/PￄﾉContent-type: text/html
+241211.912 ms ID:1 
+241270.176 ms ID:2 consulta 32, mando json: {"temp":24,"hum":88}
+244115.728 ms ID:1 `(?P(ﾾZﾅ/PￄS{"temp":24,"hum":88}`?P(ￒZﾅ/PￄE0`?P(ￓZﾅ0PￄE/`?P4}ﾊB4`ￄ'ￄ`i?P4~ﾊBPￄﾬSHTTP/1.0 200 OK
+244115.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+244115.728 ms ID:1 Connection: close
+244205.912 ms ID:1 `/?P4ￓﾊBPￄﾂContent-type: text/html
+244205.912 ms ID:1 
+244288.176 ms ID:2 consulta 33, mando json: {"temp":16,"hum":83}
+246863.728 ms ID:1 `(?P4ﾊBPￄ|{"temp":16,"hum":83}`?P4ﾊBPￄ=[`?P4ﾊBPￄ=Z`?PﾛﾭﾻCﾬ`ￄﾍￄ`i?PﾛﾮﾻCﾬﾼPￄﾓHTTP/1.0 200 OK
+246863.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+246863.728 ms ID:1 Connection: close
+246961.912 ms ID:1 `/?PﾛﾻCﾬﾼPￄ^Content-type: text/html
+246961.912 ms ID:1 
+247031.176 ms ID:2 consulta 34, mando json: {"temp":23,"hum":89}
+249812.728 ms ID:1 `(?PﾛﾻCﾬﾼPￄ|ﾾ{"temp":23,"hum":89}`?Pﾛ2ﾻCﾬﾼPￄﾣﾚ`?Pﾛ3ﾻCﾬﾽPￄﾣﾙ`?Pﾛ"lﾊ`ￄHﾣￄ`i?Pﾛ"lﾊﾷPￄￍ7HTTP/1.0 200 OK
+249812.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+249812.728 ms ID:1 Connection: close
+249920.912 ms ID:1 `/?Pﾛ3"lﾊﾷPￄﾣContent-type: text/html
+249920.912 ms ID:1 
+249977.176 ms ID:2 consulta 35, mando json: {"temp":23,"hum":86}
+253085.728 ms ID:1 `(?PﾛN"lﾊﾷPￄ:c{"temp":23,"hum":86}`?Pﾛb"lﾊﾷPￄ^?`?Pﾛc"lﾊﾸPￄ^>`?Pﾛ'ﾔ`ￄ:ￄ`i?Pﾛ'@PￄiￏHTTP/1.0 200 OK
+253085.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+253085.728 ms ID:1 Connection: close
+253218.912 ms ID:1 `/?Pﾛc'@Pￄ?ﾛContent-type: text/html
+253218.912 ms ID:1 
+253270.176 ms ID:2 consulta 36, mando json: {"temp":23,"hum":89}
+255866.728 ms ID:1 `(?Pﾛ~'@Pￄￓ{"temp":23,"hum":89}`?Pﾛﾒ'@Pￄￖ`?Pﾛﾓ'APￄￕ`?Pﾪ0=ﾶﾦ:`ￄAﾉￄ`i?Pﾪ0>ﾶﾦPￄￆHTTP/1.0 200 OK
+255866.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+255866.728 ms ID:1 Connection: close
+255937.912 ms ID:1 `/?Pﾪ0ﾓﾶﾦPￄﾛContent-type: text/html
+255937.912 ms ID:1 
+256007.176 ms ID:2 consulta 37, mando json: {"temp":15,"hum":81}
+259030.728 ms ID:1 `(?Pﾪ0ﾮﾶﾦPￄ9G{"temp":15,"hum":81}`?Pﾪ0ￂﾶﾦPￄW%`?Pﾪ0ￃﾶﾦPￄW$`?Pﾪ8mﾎ`ￄ8ￄ`i?Pﾪ8nﾎￋPￄ\ￍHTTP/1.0 200 OK
+259030.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+259030.728 ms ID:1 Connection: close
+259134.912 ms ID:1 `/?Pﾪ8ￃﾎￋPￄ2ﾙContent-type: text/html
+259134.912 ms ID:1 
+259221.176 ms ID:2 consulta 38, mando json: {"temp":33,"hum":88}
+262056.728 ms ID:1 `(?Pﾪ8ﾎￋPￄￆ{"temp":33,"hum":88}`?Pﾪ8ﾎￋPￄￔ`?Pﾪ8ﾎￌPￄￓ`?Pﾪ<ﾝﾍkXﾄ`ￄￄ`i?Pﾪ<ﾞﾍkY0PￄﾄﾳHTTP/1.0 200 OK
+262056.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+262056.728 ms ID:1 Connection: close
+262155.912 ms ID:1 `/?Pﾪ<ﾍkY0PￄZContent-type: text/html
+262155.912 ms ID:1 
+262218.176 ms ID:2 consulta 39, mando json: {"temp":33,"hum":86}
+264791.728 ms ID:1 `(?Pﾪ<ﾍkY0Pￄ{"temp":33,"hum":86}`?Pﾪ<"ﾍkY0Pￄﾻ`?Pﾪ<#ﾍkY1Pￄﾺ`?Pﾪ@ￍￆ3S!`ￄￌﾅￄ`i?Pﾪ@ￎￆ3SￍPￄQHTTP/1.0 200 OK
+264791.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+264791.728 ms ID:1 Connection: close
+264890.912 ms ID:1 `/?Pﾪ@#ￆ3SￍPￄ&Content-type: text/html
+264890.912 ms ID:1 
+264954.176 ms ID:2 consulta 40, mando json: {"temp":30,"hum":88}
+267807.824 ms ID:1 `(?Pﾪ@>ￆ3SￍPￄﾻH{"temp":30,"hum":88}`?Pﾪ@Rￆ3SￍPￄ!`?Pﾪ@Sￆ3SￎPￄ `?Pￋ^ﾾﾍM`ￄy7ￄ`i?Pￋ^ﾾﾍPￄￋHTTP/1.0 200 OK
+267807.824 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+267807.824 ms ID:1 Connection: close
+267917.912 ms ID:1 `/?Pￋ^SﾾﾍPￄￓﾗContent-type: text/html
+267917.912 ms ID:1 
+267997.176 ms ID:2 consulta 41, mando json: {"temp":39,"hum":80}
+271106.728 ms ID:1 `(?Pￋ^nﾾﾍPￄo{"temp":39,"hum":80}`?Pￋ^ﾂﾾﾍPￄﾎￓ`?Pￋ^ﾃﾾﾍPￄﾎￒ`?Pￋf-ﾣﾥr`ￄ?ￄ`i?Pￋf.ﾣﾦPￄﾑￓHTTP/1.0 200 OK
+271106.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+271106.728 ms ID:1 Connection: close
+271205.912 ms ID:1 `/?PￋfﾃﾣﾦPￄgﾟContent-type: text/html
+271205.912 ms ID:1 
+271254.176 ms ID:2 consulta 42, mando json: {"temp":18,"hum":84}
+273886.728 ms ID:1 `(?PￋfﾞﾣﾦPￄ{"temp":18,"hum":84}`?PￋfﾲﾣﾦPￄ"ￛ`?PￋfﾳﾣﾦPￄ"ￚ`?Pￋp]ﾮ`ￄ.Dￄ`i?Pￋp^ﾯﾄPￄﾲHTTP/1.0 200 OK
+273886.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+273886.728 ms ID:1 Connection: close
+273941.088 ms ID:1 `/?PￋpﾳﾯﾄPￄﾈﾤContent-type: text/html
+273941.088 ms ID:1 
+274015.176 ms ID:2 consulta 43, mando json: {"temp":21,"hum":86}
+277114.728 ms ID:1 `(?PￋpￎﾯﾄPￄ {"temp":21,"hum":86}`?PￋpﾯﾄPￄC`?PￋpﾯﾅPￄC`?Pￚￆﾍﾺ`ￄￆￄ`i?PￚￆﾎﾺﾄPￄJﾖHTTP/1.0 200 OK
+277114.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+277114.728 ms ID:1 Connection: close
+277205.912 ms ID:1 `/?PￚￆﾺﾄPￄ bContent-type: text/html
+277205.912 ms ID:1 
+277256.176 ms ID:2 consulta 44, mando json: {"temp":34,"hum":80}
+279807.728 ms ID:1 `(?PￚￆﾺﾄPￄﾼￛￜ{"temp":34,"hum":80}`?Pￚￆ	ﾺﾄPￄￛﾝ`?Pￚￆ	ﾺﾅPￄￛﾜ`?Pￚﾽ ﾳ3`ￄ"ￄ`i?Pￚﾾ ﾳPￄeﾷHTTP/1.0 200 OK
+279807.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+279807.728 ms ID:1 Connection: close
+279934.912 ms ID:1 `/?Pￚ	 ﾳPￄ;ﾃContent-type: text/html
+279934.912 ms ID:1 
+280019.176 ms ID:2 consulta 45, mando json: {"temp":34,"hum":89}
+283148.728 ms ID:1 `(?Pￚ	. ﾳPￄￎ{"temp":34,"hum":89}`?Pￚ	B ﾳPￄﾾ`?Pￚ	C ﾳPￄﾽ`?Pￚ(ﾉﾔ`ￄﾦￄ`i?Pￚ(ﾉﾕﾞPￄ{;HTTP/1.0 200 OK
+283148.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+283148.728 ms ID:1 Connection: close
+283254.912 ms ID:1 `/?Pￚ	C(ﾉﾕﾞPￄQContent-type: text/html
+283254.912 ms ID:1 
+283340.176 ms ID:2 consulta 46, mando json: {"temp":21,"hum":81}
+286108.728 ms ID:1 `(?Pￚ	^(ﾉﾕﾞPￄh{"temp":21,"hum":81}`?Pￚ	r(ﾉﾕﾞPￄC`?Pￚ	s(ﾉﾕﾟPￄB`?Pﾢﾨ	%Iﾣ`ￄ-ￄ`i?Pﾢﾨ	&IOPￄcￂHTTP/1.0 200 OK
+286108.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+286108.728 ms ID:1 Connection: close
+286167.912 ms ID:1 `/?Pﾢﾨ	{IOPￄ9ﾎContent-type: text/html
+286167.912 ms ID:1 
+286217.176 ms ID:2 consulta 47, mando json: {"temp":17,"hum":83}
+289100.728 ms ID:1 `(?Pﾢﾨ	ﾖIOPￄￔ{"temp":17,"hum":83}`?Pﾢﾨ	ﾪIOPￄ`?Pﾢﾨ	ﾫIPPￄ`?Pﾢﾴ	Uﾉﾾﾃ`ￄￄ`i?Pﾢﾴ	VﾉﾾﾃﾭPￄcﾳHTTP/1.0 200 OK
+289100.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+289100.728 ms ID:1 Connection: close
+289184.912 ms ID:1 `/?Pﾢﾴ	ﾫﾉﾾﾃﾭPￄ9Content-type: text/html
+289184.912 ms ID:1 
+289267.176 ms ID:2 consulta 48, mando json: {"temp":25,"hum":85}
+291843.728 ms ID:1 `(?Pﾢﾴ	ￆﾉﾾﾃﾭPￄￜ{"temp":25,"hum":85}`?Pﾢﾴ	ￚﾉﾾﾃﾭPￄﾺ`?Pﾢﾴ	ￛﾉﾾﾃﾮPￄﾹ`?Pﾢￛￜ	}!ﾫ`ￄﾪￄ`i?Pﾢￛￜ	~"WPￄ.ﾤHTTP/1.0 200 OK
+291843.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+291843.728 ms ID:1 Connection: close
+291940.912 ms ID:1 `/?Pﾢￛￜ	ￓ"WPￄpContent-type: text/html
+291940.912 ms ID:1 
+291992.176 ms ID:2 consulta 49, mando json: {"temp":33,"hum":80}
+292099.048 ms ID:1 `(?Pﾢￛￜ	"WPￄﾠￏ{"temp":33,"hum":80}`?Pﾢￛￜ
+292206.048 ms ID:1 "WPￄﾫ`?Pﾢￛￜ
+295064.728 ms ID:1 "XPￄﾪ`?Pﾢￆ	ﾭﾔￕ`ￄﾁﾈￄ`i?Pﾢￆ	ﾮﾔￕﾮPￄHTTP/1.0 200 OK
+295064.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+295064.728 ms ID:1 Connection: close
+295144.912 ms ID:1 `/?Pﾢￆ
+295144.912 ms ID:1 ﾔￕﾮPￄￛContent-type: text/html
+295144.912 ms ID:1 
+295222.176 ms ID:2 consulta 50, mando json: {"temp":30,"hum":81}
+295231.688 ms ID:1 `(?Pﾢￆ
+295316.048 ms ID:1 ﾔￕﾮPￄwK{"temp":30,"hum":81}`?Pﾢￆ
+295420.048 ms ID:1 2ﾔￕﾮPￄﾗ$`?Pﾢￆ
+298072.728 ms ID:1 3ﾔￕﾯPￄﾗ#`?PﾢZ	j4X`ￄￄ`i?PﾢZ	j5PￄcﾂHTTP/1.0 200 OK
+298072.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+298072.728 ms ID:1 Connection: close
+298178.912 ms ID:1 `/?PﾢZ
+298178.912 ms ID:1 3j5Pￄ9NContent-type: text/html
+298178.912 ms ID:1 
+298229.176 ms ID:2 consulta 51, mando json: {"temp":37,"hum":88}
+298267.688 ms ID:1 `(?PﾢZ
+298363.048 ms ID:1 Nj5Pￄￍﾩ{"temp":37,"hum":88}`?PﾢZ
+298473.048 ms ID:1 bj5Pￄﾉ`?PﾢZ
+300684.176 ms ID:1 cj5Pￄﾈ`?Pﾢj
+301077.728 ms ID:1 bￌe`ￄ"ﾳￄ`i?Pﾢj
+301077.728 ms ID:1 bￌfﾝPￄﾧGHTTP/1.0 200 OK
+301077.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+301077.728 ms ID:1 Connection: close
+301182.912 ms ID:1 `/?Pﾢj
+301182.912 ms ID:1 cbￌfﾝPￄ}Content-type: text/html
+301182.912 ms ID:1 
+301254.176 ms ID:2 consulta 52, mando json: {"temp":30,"hum":88}
+301266.688 ms ID:1 `(?Pﾢj
+301328.224 ms ID:1 ~bￌfﾝPￄv{"temp":30,"hum":88}`?Pﾢj
+301424.048 ms ID:1 ﾒbￌfﾝPￄ8O`?Pﾢj
+303692.176 ms ID:1 ﾓbￌfﾞPￄ8N`?Pﾢr
+304126.728 ms ID:1 E2$|`ￄﾓﾺￄ`i?Pﾢr
+304126.728 ms ID:1 F2%(PￄOHTTP/1.0 200 OK
+304126.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+304126.728 ms ID:1 Connection: close
+304204.912 ms ID:1 `/?Pﾢr
+304204.912 ms ID:1 ﾛ2%(PￄContent-type: text/html
+304204.912 ms ID:1 
+304257.176 ms ID:2 consulta 53, mando json: {"temp":18,"hum":80}
+304299.688 ms ID:1 `(?Pﾢr
+304430.048 ms ID:1 ﾶ2%(Pￄﾌu{"temp":18,"hum":80}`?Pﾢr
+304509.048 ms ID:1 ￊ2%(PￄﾩV`?Pﾢr
+306668.992 ms ID:1 ￋ2%)PￄﾩU`?Pￂ8
+306845.728 ms ID:1 mￂTﾠm`ￄhﾀￄ`i?Pￂ8
+306845.728 ms ID:1 nￂTﾡPￄHTTP/1.0 200 OK
+306845.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+306845.728 ms ID:1 Connection: close
+306957.912 ms ID:1 `/?Pￂ8
+306957.912 ms ID:1 ￃￂTﾡPￄￂContent-type: text/html
+306957.912 ms ID:1 
+307035.176 ms ID:2 consulta 54, mando json: {"temp":33,"hum":89}
+307047.688 ms ID:1 `(?Pￂ8
+307162.048 ms ID:1 ￂTﾡPￄV@{"temp":33,"hum":89}`?Pￂ8
+307289.048 ms ID:1 ￂTﾡPￄ~`?Pￂ8
+309681.176 ms ID:1 ￂTﾡPￄ~`?Pￂ@
+309874.728 ms ID:1 ﾝ@ﾡ`ￄ;ￃￄ`i?Pￂ@
+309874.728 ms ID:1 ﾞ@ﾡﾲPￄￛￜWHTTP/1.0 200 OK
+309874.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+309874.728 ms ID:1 Connection: close
+309981.912 ms ID:1 `/?Pￂ@
+309981.912 ms ID:1 @ﾡﾲPￄﾖ#Content-type: text/html
+309981.912 ms ID:1 
+310061.176 ms ID:2 consulta 55, mando json: {"temp":28,"hum":83}
+312731.176 ms ID:1 `(?Pￂ@@ﾡﾲPￄ0~{"temp":28,"hum":83}`?Pￂ@"@ﾡﾲPￄQ_`?Pￂ@#@ﾡﾳPￄQ^`?PￂD
+313145.728 ms ID:1 ￕﾱ$T`ￄￄￂￄ`i?PￂD
+313145.728 ms ID:1 ￖﾱ$UﾓPￄIWHTTP/1.0 200 OK
+313145.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+313145.728 ms ID:1 Connection: close
+313226.912 ms ID:1 `/?PￂD+ﾱ$UﾓPￄ#Content-type: text/html
+313226.912 ms ID:1 
+313292.176 ms ID:2 consulta 56, mando json: {"temp":31,"hum":88}
+316139.728 ms ID:1 `(?PￂDFﾱ$UﾓPￄﾳﾄ{"temp":31,"hum":88}`?PￂDZﾱ$UﾓPￄￚ^`?PￂD[ﾱ$UﾔPￄￚ]`?Pﾭ ﾩￅk`ￄﾮￄ`i?Pﾭ ﾩￆPￄﾞBHTTP/1.0 200 OK
+316139.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+316139.728 ms ID:1 Connection: close
+316250.912 ms ID:1 `/?Pﾭ [ﾩￆPￄtContent-type: text/html
+316250.912 ms ID:1 
+316317.176 ms ID:2 consulta 57, mando json: {"temp":36,"hum":84}
+319051.728 ms ID:1 `(?Pﾭ vﾩￆPￄk{"temp":36,"hum":84}`?Pﾭ ﾊﾩￆPￄ/J`?Pﾭ ﾋﾩￆPￄ/I`?Pﾭ,59:ﾃﾻ`ￄ"ﾑￄ`i?Pﾭ,69:ﾄgPￄﾧ%HTTP/1.0 200 OK
+319051.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+319051.728 ms ID:1 Connection: close
+319125.912 ms ID:1 `/?Pﾭ,ﾋ9:ﾄgPￄ|Content-type: text/html
+319125.912 ms ID:1 
+319201.176 ms ID:2 consulta 58, mando json: {"temp":19,"hum":88}
+322118.728 ms ID:1 `(?Pﾭ,ﾦ9:ﾄgPￄK{"temp":19,"hum":88}`?Pﾭ,ﾺ9:ﾄgPￄ8-`?Pﾭ,ﾻ9:ﾄhPￄ8,`?Pﾭ<eXￛ@`ￄﾫￄ`i?Pﾭ<fXￛPￄ/ﾯHTTP/1.0 200 OK
+322118.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+322118.728 ms ID:1 Connection: close
+322232.912 ms ID:1 `/?Pﾭ<ﾻXￛPￄ{Content-type: text/html
+322232.912 ms ID:1 
+322296.176 ms ID:2 consulta 59, mando json: {"temp":24,"hum":84}
+325148.728 ms ID:1 `(?Pﾭ<ￖXￛPￄﾞ{"temp":24,"hum":84}`?Pﾭ<XￛPￄￛￜﾶ`?Pﾭ<XￛPￄￛￜﾵ`?PﾭJﾕ/S?&`ￄpﾏￄ`i?PﾭJﾖ/S?ￒPￄ#HTTP/1.0 200 OK
+325148.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+325148.728 ms ID:1 Connection: close
+325257.912 ms ID:1 `/?PﾭJ/S?ￒPￄￊContent-type: text/html
+325257.912 ms ID:1 
+325322.176 ms ID:2 consulta 60, mando json: {"temp":35,"hum":82}
+328158.728 ms ID:1 `(?PﾭJ/S?ￒPￄeM{"temp":35,"hum":82}`?PﾭJ/S?ￒPￄﾆ+`?PﾭJ/S?ￓPￄﾆ*`?Pﾾￅmﾰﾝ4`ￄￂWￄ`i?PﾾￆmﾰﾝPￄFHTTP/1.0 200 OK
+328158.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+328158.728 ms ID:1 Connection: close
+328233.912 ms ID:1 `/?PﾾmﾰﾝPￄﾸContent-type: text/html
+328233.912 ms ID:1 
+328290.176 ms ID:2 consulta 61, mando json: {"temp":18,"hum":82}
+330902.728 ms ID:1 `(?Pﾾ6mﾰﾝPￄﾹ{"temp":18,"hum":82}`?PﾾJmﾰﾝPￄￗ`?PﾾKmﾰﾝPￄￗ`?Pﾾ$#4`ￄsￄ`i?Pﾾ$#5ﾥPￄtHTTP/1.0 200 OK
+330902.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+330902.728 ms ID:1 Connection: close
+330988.912 ms ID:1 `/?PﾾK$#5ﾥPￄￎ@Content-type: text/html
+330988.912 ms ID:1 
+331063.176 ms ID:2 consulta 62, mando json: {"temp":39,"hum":86}
+333683.992 ms ID:1 `(?Pﾾf$#5ﾥPￄdﾚ{"temp":39,"hum":86}`?Pﾾz$#5ﾥPￄﾉ|`?Pﾾ{$#5ﾦPￄﾉ{`?P%ﾛf
+333852.728 ms ID:1 `ￄￋﾞￄ`i?P&ﾛfﾶPￄP3HTTP/1.0 200 OK
+333852.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+333852.728 ms ID:1 Connection: close
+333927.912 ms ID:1 `/?P{ﾛfﾶPￄ%Content-type: text/html
+333927.912 ms ID:1 
+334015.176 ms ID:2 consulta 63, mando json: {"temp":15,"hum":89}
+337132.728 ms ID:1 `(?PﾖﾛfﾶPￄﾻ\{"temp":15,"hum":89}`?PﾪﾛfﾶPￄ:`?PﾫﾛfﾷPￄ9`?PￂU8ﾊﾈﾧ`ￄIￄ`i?PￂV8ﾊﾉSPￄﾌHTTP/1.0 200 OK
+337132.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+337132.728 ms ID:1 Connection: close
+337242.912 ms ID:1 `/?Pￂﾫ8ﾊﾉSPￄbﾩContent-type: text/html
+337242.912 ms ID:1 
+337303.176 ms ID:2 consulta 64, mando json: {"temp":15,"hum":82}
+340162.728 ms ID:1 `(?Pￂￆ8ﾊﾉSPￄ{"temp":15,"hum":82}`?Pￂￚ8ﾊﾉSPￄ`?Pￂￛ8ﾊﾉTPￄ`?Pￂﾅ&Iﾸ`ￄￄ`i?Pￂﾆ&IﾸￅPￄovHTTP/1.0 200 OK
+340162.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+340162.728 ms ID:1 Connection: close
+340254.912 ms ID:1 `/?Pￂￛ&IﾸￅPￄEBContent-type: text/html
+340254.912 ms ID:1 
+340312.176 ms ID:2 consulta 65, mando json: {"temp":16,"hum":83}
+340411.048 ms ID:1 `(?Pￂ&IﾸￅPￄﾞ{"temp":16,"hum":83}`?Pￂ
+343175.728 ms ID:1 &IﾸￅPￄ~`?Pￂ&IﾸￆPￄ}`?Pￂ&ﾵￗￌl `ￄﾅￄ`i?Pￂ&ﾶￗￌlￌPￄ	ﾴHTTP/1.0 200 OK
+343175.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+343175.728 ms ID:1 Connection: close
+343246.912 ms ID:1 `/?Pￂ&ￗￌlￌPￄContent-type: text/html
+343246.912 ms ID:1 
+343299.176 ms ID:2 consulta 66, mando json: {"temp":22,"hum":87}
+346081.728 ms ID:1 `(?Pￂ&&ￗￌlￌPￄu{"temp":22,"hum":87}`?Pￂ&:ￗￌlￌPￄﾚﾻ`?Pￂ&;ￗￌlￍPￄﾚﾺ`?Pￃﾰﾷ4t	`ￄﾜￄ`i?Pￃﾰﾷ4tﾵPￄ ﾩHTTP/1.0 200 OK
+346081.728 ms ID:1 Server: Contiki/2.4 http://www.sics.se/contiki/
+346081.728 ms ID:1 Connection: close

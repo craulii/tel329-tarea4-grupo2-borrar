@@ -1,0 +1,27 @@
+slip connected to ``127.0.0.1:60001''
+opened tun device ``/dev/tun0''
+ifconfig tun0 inet `hostname` mtu 1500 up
+ifconfig tun0 add fd00::1/64
+ifconfig tun0 add fe80::0:0:0:1/64
+ifconfig tun0
+
+tun0: flags=4305<UP,POINTOPOINT,RUNNING,NOARP,MULTICAST>  mtu 1500
+        inet 127.0.1.1  netmask 255.255.255.255  destination 127.0.1.1
+        inet6 fd00::1  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::1  prefixlen 64  scopeid 0x20<link>
+        inet6 fe80::cd9a:890c:f447:2bb2  prefixlen 64  scopeid 0x20<link>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 500  (UNSPEC)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+[INFO: BR        ] Waiting for prefix
+*** Address:fd00::1 => fd00:0000:0000:0000
+[INFO: BR        ] Waiting for prefix
+[INFO: BR        ] Server IPv6 addresses:
+[INFO: BR        ]   fd00::201:1:1:1
+[INFO: BR        ]   fe80::201:1:1:1
+signal 15
+ifconfig tun0 down
+netstat -nr | awk '{ if ($2 == "tun0") print "route delete -net "$1; }' | sh

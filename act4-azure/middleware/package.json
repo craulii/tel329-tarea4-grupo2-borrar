@@ -1,0 +1,14 @@
+{
+  "name": "tel329-tarea4-azure",
+  "version": "1.0.0",
+  "description": "middleware contiki-ng -> azure iot hub (TEL329 grupo 2)",
+  "scripts": {
+    "middleware": "node middleware-azure.js",
+    "suscriptor": "node azure-sensor-subscriber.js"
+  },
+  "dependencies": {
+    "@azure/event-hubs": "^6.0.4",
+    "azure-iot-device": "^1.18.4",
+    "azure-iot-device-mqtt": "^1.16.4"
+  }
+}
