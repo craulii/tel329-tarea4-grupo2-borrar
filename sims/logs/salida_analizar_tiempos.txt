@@ -1,0 +1,12 @@
+coap muestras: 137 min: 6.3 ms prom: 43.3 ms max: 127.0 ms
+   fd00::202:2:2:2 n = 28 prom = 22.3 ms
+   fd00::203:3:3:3 n = 28 prom = 24.5 ms
+   fd00::204:4:4:4 n = 28 prom = 23.7 ms
+   fd00::205:5:5:5 n = 27 prom = 74.2 ms
+   fd00::206:6:6:6 n = 26 prom = 75.3 ms
+mqtt muestras: 190 min: 8.0 ms prom: 47.6 ms max: 122.0 ms
+   fd00::202:2:2:2 n = 38 prom = 27.3 ms
+   fd00::203:3:3:3 n = 39 prom = 28.4 ms
+   fd00::204:4:4:4 n = 39 prom = 26.4 ms
+   fd00::205:5:5:5 n = 37 prom = 75.7 ms
+   fd00::206:6:6:6 n = 37 prom = 83.2 ms
