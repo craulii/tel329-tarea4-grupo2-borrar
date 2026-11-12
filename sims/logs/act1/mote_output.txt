@@ -1,0 +1,473 @@
+236 ms ID:2 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+236 ms ID:2 [INFO: Main      ] - Routing: RPL Lite
+236 ms ID:2 [INFO: Main      ] - Net: sicslowpan
+236 ms ID:2 [INFO: Main      ] - MAC: CSMA
+236 ms ID:2 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+236 ms ID:2 [INFO: Main      ] - 802.15.4 Default channel: 26
+236 ms ID:2 [INFO: Main      ] Node ID: 2
+236 ms ID:2 [INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+236 ms ID:2 [INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+250 ms ID:6 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+250 ms ID:6 [INFO: Main      ] - Routing: RPL Lite
+250 ms ID:6 [INFO: Main      ] - Net: sicslowpan
+250 ms ID:6 [INFO: Main      ] - MAC: CSMA
+250 ms ID:6 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+250 ms ID:6 [INFO: Main      ] - 802.15.4 Default channel: 26
+250 ms ID:6 [INFO: Main      ] Node ID: 6
+250 ms ID:6 [INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+250 ms ID:6 [INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+348 ms ID:4 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+348 ms ID:4 [INFO: Main      ] - Routing: RPL Lite
+348 ms ID:4 [INFO: Main      ] - Net: sicslowpan
+348 ms ID:4 [INFO: Main      ] - MAC: CSMA
+348 ms ID:4 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+348 ms ID:4 [INFO: Main      ] - 802.15.4 Default channel: 26
+348 ms ID:4 [INFO: Main      ] Node ID: 4
+348 ms ID:4 [INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+348 ms ID:4 [INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+382 ms ID:1 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+382 ms ID:1 [INFO: Main      ] - Routing: RPL Lite
+382 ms ID:1 [INFO: Main      ] - Net: sicslowpan
+382 ms ID:1 [INFO: Main      ] - MAC: CSMA
+382 ms ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+382 ms ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+382 ms ID:1 [INFO: Main      ] Node ID: 1
+382 ms ID:1 [INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+382 ms ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+382 ms ID:1 raiz coap lista, recurso /temperatura
+715 ms ID:5 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+715 ms ID:5 [INFO: Main      ] - Routing: RPL Lite
+715 ms ID:5 [INFO: Main      ] - Net: sicslowpan
+715 ms ID:5 [INFO: Main      ] - MAC: CSMA
+715 ms ID:5 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+715 ms ID:5 [INFO: Main      ] - 802.15.4 Default channel: 26
+715 ms ID:5 [INFO: Main      ] Node ID: 5
+715 ms ID:5 [INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+715 ms ID:5 [INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+899 ms ID:3 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+899 ms ID:3 [INFO: Main      ] - Routing: RPL Lite
+899 ms ID:3 [INFO: Main      ] - Net: sicslowpan
+899 ms ID:3 [INFO: Main      ] - MAC: CSMA
+899 ms ID:3 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+899 ms ID:3 [INFO: Main      ] - 802.15.4 Default channel: 26
+899 ms ID:3 [INFO: Main      ] Node ID: 3
+899 ms ID:3 [INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+899 ms ID:3 [INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+11268 ms ID:6 todavia no estoy en la red
+11681 ms ID:2 todavia no estoy en la red
+13610 ms ID:3 todavia no estoy en la red
+15854 ms ID:5 todavia no estoy en la red
+19694 ms ID:4 mando POST /temperatura id=4 temp=27
+19712.272 ms ID:1 coap temperatura nodo 4: 27 C (total 1)
+19719.472 ms ID:4 respuesta 2.04 rtt=25 ms (enviados 1, respuestas 1)
+21268 ms ID:6 todavia no estoy en la red
+21681 ms ID:2 mando POST /temperatura id=2 temp=32
+21711.272 ms ID:1 coap temperatura nodo 2: 32 C (total 2)
+21717.472 ms ID:2 respuesta 2.04 rtt=36 ms (enviados 1, respuestas 1)
+23610 ms ID:3 mando POST /temperatura id=3 temp=25
+23623.272 ms ID:1 coap temperatura nodo 3: 25 C (total 3)
+23649.472 ms ID:3 respuesta 2.04 rtt=39 ms (enviados 1, respuestas 1)
+25854 ms ID:5 todavia no estoy en la red
+29719 ms ID:4 mando POST /temperatura id=4 temp=34
+29725.272 ms ID:1 coap temperatura nodo 4: 34 C (total 4)
+29741.472 ms ID:4 respuesta 2.04 rtt=22 ms (enviados 2, respuestas 2)
+31268 ms ID:6 todavia no estoy en la red
+31717 ms ID:2 mando POST /temperatura id=2 temp=30
+31753.272 ms ID:1 coap temperatura nodo 2: 30 C (total 5)
+31782.472 ms ID:2 respuesta 2.04 rtt=65 ms (enviados 2, respuestas 2)
+33649 ms ID:3 mando POST /temperatura id=3 temp=29
+33677.272 ms ID:1 coap temperatura nodo 3: 29 C (total 6)
+33682.744 ms ID:3 respuesta 2.04 rtt=33 ms (enviados 2, respuestas 2)
+35854 ms ID:5 mando POST /temperatura id=5 temp=22
+35882.56 ms ID:1 coap temperatura nodo 5: 22 C (total 7)
+35923.016 ms ID:5 respuesta 2.04 rtt=69 ms (enviados 1, respuestas 1)
+39741 ms ID:4 mando POST /temperatura id=4 temp=28
+39774.272 ms ID:1 coap temperatura nodo 4: 28 C (total 8)
+39779.744 ms ID:4 respuesta 2.04 rtt=38 ms (enviados 3, respuestas 3)
+41268 ms ID:6 mando POST /temperatura id=6 temp=22
+41299.56 ms ID:1 coap temperatura nodo 6: 22 C (total 9)
+41355.016 ms ID:6 respuesta 2.04 rtt=87 ms (enviados 1, respuestas 1)
+41782 ms ID:2 mando POST /temperatura id=2 temp=18
+41813.272 ms ID:1 coap temperatura nodo 2: 18 C (total 10)
+41820.472 ms ID:2 respuesta 2.04 rtt=38 ms (enviados 3, respuestas 3)
+43682 ms ID:3 mando POST /temperatura id=3 temp=29
+43711.272 ms ID:1 coap temperatura nodo 3: 29 C (total 11)
+43720.472 ms ID:3 respuesta 2.04 rtt=38 ms (enviados 3, respuestas 3)
+45923 ms ID:5 mando POST /temperatura id=5 temp=32
+45972.56 ms ID:1 coap temperatura nodo 5: 32 C (total 12)
+46013.016 ms ID:5 respuesta 2.04 rtt=90 ms (enviados 2, respuestas 2)
+49779 ms ID:4 mando POST /temperatura id=4 temp=22
+49825.272 ms ID:1 coap temperatura nodo 4: 22 C (total 13)
+49870.472 ms ID:4 respuesta 2.04 rtt=91 ms (enviados 4, respuestas 4)
+51355 ms ID:6 mando POST /temperatura id=6 temp=29
+51416.56 ms ID:1 coap temperatura nodo 6: 29 C (total 14)
+51466.016 ms ID:6 respuesta 2.04 rtt=111 ms (enviados 2, respuestas 2)
+51820 ms ID:2 mando POST /temperatura id=2 temp=22
+51840.272 ms ID:1 coap temperatura nodo 2: 22 C (total 15)
+51867.472 ms ID:2 respuesta 2.04 rtt=47 ms (enviados 4, respuestas 4)
+53720 ms ID:3 mando POST /temperatura id=3 temp=20
+53731.272 ms ID:1 coap temperatura nodo 3: 20 C (total 16)
+53758.472 ms ID:3 respuesta 2.04 rtt=38 ms (enviados 4, respuestas 4)
+56013 ms ID:5 mando POST /temperatura id=5 temp=27
+56074.56 ms ID:1 coap temperatura nodo 5: 27 C (total 17)
+56134.016 ms ID:5 respuesta 2.04 rtt=121 ms (enviados 3, respuestas 3)
+59870 ms ID:4 mando POST /temperatura id=4 temp=24
+59914.272 ms ID:1 coap temperatura nodo 4: 24 C (total 18)
+59943.472 ms ID:4 respuesta 2.04 rtt=73 ms (enviados 5, respuestas 5)
+61466 ms ID:6 mando POST /temperatura id=6 temp=30
+61525.56 ms ID:1 coap temperatura nodo 6: 30 C (total 19)
+61537.304 ms ID:6 respuesta 2.04 rtt=71 ms (enviados 3, respuestas 3)
+61867 ms ID:2 mando POST /temperatura id=2 temp=20
+61877.272 ms ID:1 coap temperatura nodo 2: 20 C (total 20)
+61887.472 ms ID:2 respuesta 2.04 rtt=20 ms (enviados 5, respuestas 5)
+63758 ms ID:3 mando POST /temperatura id=3 temp=25
+63772.272 ms ID:1 coap temperatura nodo 3: 25 C (total 21)
+63807.472 ms ID:3 respuesta 2.04 rtt=49 ms (enviados 5, respuestas 5)
+66134 ms ID:5 mando POST /temperatura id=5 temp=22
+66173.56 ms ID:1 coap temperatura nodo 5: 22 C (total 22)
+66210.016 ms ID:5 respuesta 2.04 rtt=76 ms (enviados 4, respuestas 4)
+69943 ms ID:4 mando POST /temperatura id=4 temp=30
+69962.272 ms ID:1 coap temperatura nodo 4: 30 C (total 23)
+69967.744 ms ID:4 respuesta 2.04 rtt=24 ms (enviados 6, respuestas 6)
+71537 ms ID:6 mando POST /temperatura id=6 temp=17
+71601.56 ms ID:1 coap temperatura nodo 6: 17 C (total 24)
+71639.016 ms ID:6 respuesta 2.04 rtt=102 ms (enviados 4, respuestas 4)
+71887 ms ID:2 mando POST /temperatura id=2 temp=25
+71922.272 ms ID:1 coap temperatura nodo 2: 25 C (total 25)
+71961.472 ms ID:2 respuesta 2.04 rtt=74 ms (enviados 6, respuestas 6)
+73807 ms ID:3 mando POST /temperatura id=3 temp=23
+73829.272 ms ID:1 coap temperatura nodo 3: 23 C (total 26)
+73844.472 ms ID:3 respuesta 2.04 rtt=37 ms (enviados 6, respuestas 6)
+76210 ms ID:5 mando POST /temperatura id=5 temp=24
+76275.56 ms ID:1 coap temperatura nodo 5: 24 C (total 27)
+76347.016 ms ID:5 respuesta 2.04 rtt=137 ms (enviados 5, respuestas 5)
+79967 ms ID:4 mando POST /temperatura id=4 temp=16
+80003.272 ms ID:1 coap temperatura nodo 4: 16 C (total 28)
+80014.472 ms ID:4 respuesta 2.04 rtt=47 ms (enviados 7, respuestas 7)
+81639 ms ID:6 mando POST /temperatura id=6 temp=27
+81712.56 ms ID:1 coap temperatura nodo 6: 27 C (total 29)
+81759.016 ms ID:6 respuesta 2.04 rtt=120 ms (enviados 5, respuestas 5)
+81961 ms ID:2 mando POST /temperatura id=2 temp=22
+81970.272 ms ID:1 coap temperatura nodo 2: 22 C (total 30)
+82010.472 ms ID:2 respuesta 2.04 rtt=49 ms (enviados 7, respuestas 7)
+83844 ms ID:3 mando POST /temperatura id=3 temp=29
+83850.272 ms ID:1 coap temperatura nodo 3: 29 C (total 31)
+83862.472 ms ID:3 respuesta 2.04 rtt=18 ms (enviados 7, respuestas 7)
+86347 ms ID:5 mando POST /temperatura id=5 temp=15
+86406.56 ms ID:1 coap temperatura nodo 5: 15 C (total 32)
+86446.016 ms ID:5 respuesta 2.04 rtt=99 ms (enviados 6, respuestas 6)
+90014 ms ID:4 mando POST /temperatura id=4 temp=18
+90034.272 ms ID:1 coap temperatura nodo 4: 18 C (total 33)
+90039.744 ms ID:4 respuesta 2.04 rtt=25 ms (enviados 8, respuestas 8)
+91759 ms ID:6 mando POST /temperatura id=6 temp=26
+91800.56 ms ID:1 coap temperatura nodo 6: 26 C (total 34)
+91865.016 ms ID:6 respuesta 2.04 rtt=106 ms (enviados 6, respuestas 6)
+92010 ms ID:2 mando POST /temperatura id=2 temp=28
+92052.272 ms ID:1 coap temperatura nodo 2: 28 C (total 35)
+92092.472 ms ID:2 respuesta 2.04 rtt=82 ms (enviados 8, respuestas 8)
+93862 ms ID:3 mando POST /temperatura id=3 temp=22
+93901.272 ms ID:1 coap temperatura nodo 3: 22 C (total 36)
+93927.472 ms ID:3 respuesta 2.04 rtt=65 ms (enviados 8, respuestas 8)
+96446 ms ID:5 mando POST /temperatura id=5 temp=30
+96487.56 ms ID:1 coap temperatura nodo 5: 30 C (total 37)
+96553.016 ms ID:5 respuesta 2.04 rtt=107 ms (enviados 7, respuestas 7)
+100039 ms ID:4 mando POST /temperatura id=4 temp=22
+100082.272 ms ID:1 coap temperatura nodo 4: 22 C (total 38)
+100111.472 ms ID:4 respuesta 2.04 rtt=72 ms (enviados 9, respuestas 9)
+101865 ms ID:6 mando POST /temperatura id=6 temp=15
+101885.56 ms ID:1 coap temperatura nodo 6: 15 C (total 39)
+101937.016 ms ID:6 respuesta 2.04 rtt=72 ms (enviados 7, respuestas 7)
+102092 ms ID:2 mando POST /temperatura id=2 temp=26
+102105.272 ms ID:1 coap temperatura nodo 2: 26 C (total 40)
+102113.472 ms ID:2 respuesta 2.04 rtt=21 ms (enviados 9, respuestas 9)
+103927 ms ID:3 mando POST /temperatura id=3 temp=34
+103939.272 ms ID:1 coap temperatura nodo 3: 34 C (total 41)
+103978.472 ms ID:3 respuesta 2.04 rtt=51 ms (enviados 9, respuestas 9)
+106553 ms ID:5 mando POST /temperatura id=5 temp=34
+106604.56 ms ID:1 coap temperatura nodo 5: 34 C (total 42)
+106653.016 ms ID:5 respuesta 2.04 rtt=100 ms (enviados 8, respuestas 8)
+110111 ms ID:4 mando POST /temperatura id=4 temp=19
+110139.272 ms ID:1 coap temperatura nodo 4: 19 C (total 43)
+110165.472 ms ID:4 respuesta 2.04 rtt=54 ms (enviados 10, respuestas 10)
+111937 ms ID:6 mando POST /temperatura id=6 temp=15
+111987.56 ms ID:1 coap temperatura nodo 6: 15 C (total 44)
+112011.016 ms ID:6 respuesta 2.04 rtt=74 ms (enviados 8, respuestas 8)
+112113 ms ID:2 mando POST /temperatura id=2 temp=33
+112131.272 ms ID:1 coap temperatura nodo 2: 33 C (total 45)
+112143.472 ms ID:2 respuesta 2.04 rtt=30 ms (enviados 10, respuestas 10)
+113978 ms ID:3 mando POST /temperatura id=3 temp=17
+114000.272 ms ID:1 coap temperatura nodo 3: 17 C (total 46)
+114026.472 ms ID:3 respuesta 2.04 rtt=48 ms (enviados 10, respuestas 10)
+116653 ms ID:5 mando POST /temperatura id=5 temp=34
+116687.56 ms ID:1 coap temperatura nodo 5: 34 C (total 47)
+116752.016 ms ID:5 respuesta 2.04 rtt=99 ms (enviados 9, respuestas 9)
+120165 ms ID:4 mando POST /temperatura id=4 temp=26
+120198.272 ms ID:1 coap temperatura nodo 4: 26 C (total 48)
+120211.472 ms ID:4 respuesta 2.04 rtt=46 ms (enviados 11, respuestas 11)
+122011 ms ID:6 mando POST /temperatura id=6 temp=24
+122078.56 ms ID:1 coap temperatura nodo 6: 24 C (total 49)
+122103.016 ms ID:6 respuesta 2.04 rtt=92 ms (enviados 9, respuestas 9)
+122143 ms ID:2 mando POST /temperatura id=2 temp=31
+122171.272 ms ID:1 coap temperatura nodo 2: 31 C (total 50)
+122176.744 ms ID:2 respuesta 2.04 rtt=33 ms (enviados 11, respuestas 11)
+124026 ms ID:3 mando POST /temperatura id=3 temp=29
+124037.272 ms ID:1 coap temperatura nodo 3: 29 C (total 51)
+124067.472 ms ID:3 respuesta 2.04 rtt=41 ms (enviados 11, respuestas 11)
+126752 ms ID:5 mando POST /temperatura id=5 temp=18
+126797.56 ms ID:1 coap temperatura nodo 5: 18 C (total 52)
+126848.016 ms ID:5 respuesta 2.04 rtt=96 ms (enviados 10, respuestas 10)
+130211 ms ID:4 mando POST /temperatura id=4 temp=16
+130242.272 ms ID:1 coap temperatura nodo 4: 16 C (total 53)
+130282.472 ms ID:4 respuesta 2.04 rtt=71 ms (enviados 12, respuestas 12)
+132103 ms ID:6 mando POST /temperatura id=6 temp=22
+132165.56 ms ID:1 coap temperatura nodo 6: 22 C (total 54)
+132176 ms ID:2 mando POST /temperatura id=2 temp=17
+132192.016 ms ID:6 respuesta 2.04 rtt=89 ms (enviados 10, respuestas 10)
+132209.272 ms ID:1 coap temperatura nodo 2: 17 C (total 55)
+132216.472 ms ID:2 respuesta 2.04 rtt=40 ms (enviados 12, respuestas 12)
+134067 ms ID:3 mando POST /temperatura id=3 temp=31
+134088.272 ms ID:1 coap temperatura nodo 3: 31 C (total 56)
+134124.472 ms ID:3 respuesta 2.04 rtt=57 ms (enviados 12, respuestas 12)
+136848 ms ID:5 mando POST /temperatura id=5 temp=16
+136897.56 ms ID:1 coap temperatura nodo 5: 16 C (total 57)
+136941.016 ms ID:5 respuesta 2.04 rtt=93 ms (enviados 11, respuestas 11)
+140282 ms ID:4 mando POST /temperatura id=4 temp=16
+140293.272 ms ID:1 coap temperatura nodo 4: 16 C (total 58)
+140300.472 ms ID:4 respuesta 2.04 rtt=18 ms (enviados 13, respuestas 13)
+142192 ms ID:6 mando POST /temperatura id=6 temp=22
+142216 ms ID:2 mando POST /temperatura id=2 temp=26
+142244.56 ms ID:1 coap temperatura nodo 6: 22 C (total 59)
+142253.272 ms ID:1 coap temperatura nodo 2: 26 C (total 60)
+142274.2 ms ID:2 respuesta 2.04 rtt=58 ms (enviados 13, respuestas 13)
+142278.216 ms ID:6 respuesta 2.04 rtt=86 ms (enviados 11, respuestas 11)
+144124 ms ID:3 mando POST /temperatura id=3 temp=15
+144131.272 ms ID:1 coap temperatura nodo 3: 15 C (total 61)
+144146.472 ms ID:3 respuesta 2.04 rtt=22 ms (enviados 13, respuestas 13)
+146941 ms ID:5 mando POST /temperatura id=5 temp=30
+146975.088 ms ID:1 coap temperatura nodo 5: 30 C (total 62)
+147044.016 ms ID:5 respuesta 2.04 rtt=103 ms (enviados 12, respuestas 12)
+150300 ms ID:4 mando POST /temperatura id=4 temp=28
+150315.272 ms ID:1 coap temperatura nodo 4: 28 C (total 63)
+150343.472 ms ID:4 respuesta 2.04 rtt=43 ms (enviados 14, respuestas 14)
+152274 ms ID:2 mando POST /temperatura id=2 temp=21
+152278 ms ID:6 mando POST /temperatura id=6 temp=33
+152319.272 ms ID:1 coap temperatura nodo 2: 21 C (total 64)
+152346.472 ms ID:2 respuesta 2.04 rtt=72 ms (enviados 14, respuestas 14)
+152355.56 ms ID:1 coap temperatura nodo 6: 33 C (total 65)
+152411.016 ms ID:6 respuesta 2.04 rtt=133 ms (enviados 12, respuestas 12)
+154146 ms ID:3 mando POST /temperatura id=3 temp=22
+154182.272 ms ID:1 coap temperatura nodo 3: 22 C (total 66)
+154207.472 ms ID:3 respuesta 2.04 rtt=61 ms (enviados 14, respuestas 14)
+157044 ms ID:5 mando POST /temperatura id=5 temp=18
+157077.56 ms ID:1 coap temperatura nodo 5: 18 C (total 67)
+157104.016 ms ID:5 respuesta 2.04 rtt=60 ms (enviados 13, respuestas 13)
+160343 ms ID:4 mando POST /temperatura id=4 temp=25
+160378.272 ms ID:1 coap temperatura nodo 4: 25 C (total 68)
+160397.472 ms ID:4 respuesta 2.04 rtt=54 ms (enviados 15, respuestas 15)
+162346 ms ID:2 mando POST /temperatura id=2 temp=22
+162375.272 ms ID:1 coap temperatura nodo 2: 22 C (total 69)
+162411 ms ID:6 mando POST /temperatura id=6 temp=24
+162413.472 ms ID:2 respuesta 2.04 rtt=67 ms (enviados 15, respuestas 15)
+162466.56 ms ID:1 coap temperatura nodo 6: 24 C (total 70)
+162516.016 ms ID:6 respuesta 2.04 rtt=105 ms (enviados 13, respuestas 13)
+164207 ms ID:3 mando POST /temperatura id=3 temp=23
+164217.272 ms ID:1 coap temperatura nodo 3: 23 C (total 71)
+164238.472 ms ID:3 respuesta 2.04 rtt=31 ms (enviados 15, respuestas 15)
+167104 ms ID:5 mando POST /temperatura id=5 temp=15
+167157.56 ms ID:1 coap temperatura nodo 5: 15 C (total 72)
+167205.016 ms ID:5 respuesta 2.04 rtt=101 ms (enviados 14, respuestas 14)
+170397 ms ID:4 mando POST /temperatura id=4 temp=27
+170433.272 ms ID:1 coap temperatura nodo 4: 27 C (total 73)
+170439.472 ms ID:4 respuesta 2.04 rtt=42 ms (enviados 16, respuestas 16)
+172413 ms ID:2 mando POST /temperatura id=2 temp=17
+172421.272 ms ID:1 coap temperatura nodo 2: 17 C (total 74)
+172427.472 ms ID:2 respuesta 2.04 rtt=14 ms (enviados 16, respuestas 16)
+172516 ms ID:6 mando POST /temperatura id=6 temp=33
+172562.56 ms ID:1 coap temperatura nodo 6: 33 C (total 75)
+172614.016 ms ID:6 respuesta 2.04 rtt=98 ms (enviados 14, respuestas 14)
+174238 ms ID:3 mando POST /temperatura id=3 temp=27
+174274.272 ms ID:1 coap temperatura nodo 3: 27 C (total 76)
+174293.472 ms ID:3 respuesta 2.04 rtt=55 ms (enviados 16, respuestas 16)
+177205 ms ID:5 mando POST /temperatura id=5 temp=18
+177270.56 ms ID:1 coap temperatura nodo 5: 18 C (total 77)
+177309.016 ms ID:5 respuesta 2.04 rtt=104 ms (enviados 15, respuestas 15)
+180439 ms ID:4 mando POST /temperatura id=4 temp=18
+180448.272 ms ID:1 coap temperatura nodo 4: 18 C (total 78)
+180473.472 ms ID:4 respuesta 2.04 rtt=34 ms (enviados 17, respuestas 17)
+182427 ms ID:2 mando POST /temperatura id=2 temp=21
+182467.272 ms ID:1 coap temperatura nodo 2: 21 C (total 79)
+182483.472 ms ID:2 respuesta 2.04 rtt=56 ms (enviados 17, respuestas 17)
+182614 ms ID:6 mando POST /temperatura id=6 temp=27
+182642.56 ms ID:1 coap temperatura nodo 6: 27 C (total 80)
+182689.016 ms ID:6 respuesta 2.04 rtt=75 ms (enviados 15, respuestas 15)
+184293 ms ID:3 mando POST /temperatura id=3 temp=16
+184299.272 ms ID:1 coap temperatura nodo 3: 16 C (total 81)
+184343.472 ms ID:3 respuesta 2.04 rtt=50 ms (enviados 17, respuestas 17)
+187309 ms ID:5 mando POST /temperatura id=5 temp=19
+187382.56 ms ID:1 coap temperatura nodo 5: 19 C (total 82)
+187430.016 ms ID:5 respuesta 2.04 rtt=121 ms (enviados 16, respuestas 16)
+190473 ms ID:4 mando POST /temperatura id=4 temp=16
+190502.272 ms ID:1 coap temperatura nodo 4: 16 C (total 83)
+190520.472 ms ID:4 respuesta 2.04 rtt=47 ms (enviados 18, respuestas 18)
+192483 ms ID:2 mando POST /temperatura id=2 temp=28
+192491.272 ms ID:1 coap temperatura nodo 2: 28 C (total 84)
+192522.472 ms ID:2 respuesta 2.04 rtt=39 ms (enviados 18, respuestas 18)
+192689 ms ID:6 mando POST /temperatura id=6 temp=26
+192755.56 ms ID:1 coap temperatura nodo 6: 26 C (total 85)
+192833.016 ms ID:6 respuesta 2.04 rtt=144 ms (enviados 16, respuestas 16)
+194343 ms ID:3 mando POST /temperatura id=3 temp=34
+194353.272 ms ID:1 coap temperatura nodo 3: 34 C (total 86)
+194377.472 ms ID:3 respuesta 2.04 rtt=34 ms (enviados 18, respuestas 18)
+197430 ms ID:5 mando POST /temperatura id=5 temp=30
+197471.56 ms ID:1 coap temperatura nodo 5: 30 C (total 87)
+197525.016 ms ID:5 respuesta 2.04 rtt=95 ms (enviados 17, respuestas 17)
+200520 ms ID:4 mando POST /temperatura id=4 temp=29
+200559.272 ms ID:1 coap temperatura nodo 4: 29 C (total 88)
+200588.472 ms ID:4 respuesta 2.04 rtt=68 ms (enviados 19, respuestas 19)
+202522 ms ID:2 mando POST /temperatura id=2 temp=20
+202529.272 ms ID:1 coap temperatura nodo 2: 20 C (total 89)
+202550.472 ms ID:2 respuesta 2.04 rtt=28 ms (enviados 19, respuestas 19)
+202833 ms ID:6 mando POST /temperatura id=6 temp=33
+202864.56 ms ID:1 coap temperatura nodo 6: 33 C (total 90)
+202943.016 ms ID:6 respuesta 2.04 rtt=110 ms (enviados 17, respuestas 17)
+204377 ms ID:3 mando POST /temperatura id=3 temp=24
+204383.272 ms ID:1 coap temperatura nodo 3: 24 C (total 91)
+204396.472 ms ID:3 respuesta 2.04 rtt=19 ms (enviados 19, respuestas 19)
+207525 ms ID:5 mando POST /temperatura id=5 temp=27
+207560.56 ms ID:1 coap temperatura nodo 5: 27 C (total 92)
+207585.016 ms ID:5 respuesta 2.04 rtt=60 ms (enviados 18, respuestas 18)
+210588 ms ID:4 mando POST /temperatura id=4 temp=25
+210595.272 ms ID:1 coap temperatura nodo 4: 25 C (total 93)
+210620.472 ms ID:4 respuesta 2.04 rtt=32 ms (enviados 20, respuestas 20)
+212550 ms ID:2 mando POST /temperatura id=2 temp=22
+212570.272 ms ID:1 coap temperatura nodo 2: 22 C (total 94)
+212575.744 ms ID:2 respuesta 2.04 rtt=25 ms (enviados 20, respuestas 20)
+212943 ms ID:6 mando POST /temperatura id=6 temp=30
+212991.56 ms ID:1 coap temperatura nodo 6: 30 C (total 95)
+213041.016 ms ID:6 respuesta 2.04 rtt=98 ms (enviados 18, respuestas 18)
+214396 ms ID:3 mando POST /temperatura id=3 temp=15
+214411.272 ms ID:1 coap temperatura nodo 3: 15 C (total 96)
+214424.472 ms ID:3 respuesta 2.04 rtt=28 ms (enviados 20, respuestas 20)
+217585 ms ID:5 mando POST /temperatura id=5 temp=17
+217658.56 ms ID:1 coap temperatura nodo 5: 17 C (total 97)
+217702.016 ms ID:5 respuesta 2.04 rtt=117 ms (enviados 19, respuestas 19)
+220620 ms ID:4 mando POST /temperatura id=4 temp=16
+220649.272 ms ID:1 coap temperatura nodo 4: 16 C (total 98)
+220686.472 ms ID:4 respuesta 2.04 rtt=66 ms (enviados 21, respuestas 21)
+222575 ms ID:2 mando POST /temperatura id=2 temp=22
+222616.272 ms ID:1 coap temperatura nodo 2: 22 C (total 99)
+222627.472 ms ID:2 respuesta 2.04 rtt=52 ms (enviados 21, respuestas 21)
+223041 ms ID:6 mando POST /temperatura id=6 temp=30
+223086.56 ms ID:1 coap temperatura nodo 6: 30 C (total 100)
+223149.016 ms ID:6 respuesta 2.04 rtt=108 ms (enviados 19, respuestas 19)
+224424 ms ID:3 mando POST /temperatura id=3 temp=29
+224463.272 ms ID:1 coap temperatura nodo 3: 29 C (total 101)
+224471.472 ms ID:3 respuesta 2.04 rtt=47 ms (enviados 21, respuestas 21)
+227702 ms ID:5 mando POST /temperatura id=5 temp=20
+227751.56 ms ID:1 coap temperatura nodo 5: 20 C (total 102)
+227840.016 ms ID:5 respuesta 2.04 rtt=138 ms (enviados 20, respuestas 20)
+230686 ms ID:4 mando POST /temperatura id=4 temp=18
+230731.272 ms ID:1 coap temperatura nodo 4: 18 C (total 103)
+230776.472 ms ID:4 respuesta 2.04 rtt=90 ms (enviados 22, respuestas 22)
+232627 ms ID:2 mando POST /temperatura id=2 temp=19
+232656.272 ms ID:1 coap temperatura nodo 2: 19 C (total 104)
+232667.472 ms ID:2 respuesta 2.04 rtt=40 ms (enviados 22, respuestas 22)
+233149 ms ID:6 mando POST /temperatura id=6 temp=29
+233229.56 ms ID:1 coap temperatura nodo 6: 29 C (total 105)
+233251.016 ms ID:6 respuesta 2.04 rtt=102 ms (enviados 20, respuestas 20)
+234471 ms ID:3 mando POST /temperatura id=3 temp=21
+234516.272 ms ID:1 coap temperatura nodo 3: 21 C (total 106)
+234532.472 ms ID:3 respuesta 2.04 rtt=61 ms (enviados 22, respuestas 22)
+237840 ms ID:5 mando POST /temperatura id=5 temp=33
+237895.56 ms ID:1 coap temperatura nodo 5: 33 C (total 107)
+237925.016 ms ID:5 respuesta 2.04 rtt=85 ms (enviados 21, respuestas 21)
+240776 ms ID:4 mando POST /temperatura id=4 temp=30
+240810.272 ms ID:1 coap temperatura nodo 4: 30 C (total 108)
+240838.472 ms ID:4 respuesta 2.04 rtt=62 ms (enviados 23, respuestas 23)
+242667 ms ID:2 mando POST /temperatura id=2 temp=34
+242695.272 ms ID:1 coap temperatura nodo 2: 34 C (total 109)
+242730.472 ms ID:2 respuesta 2.04 rtt=63 ms (enviados 23, respuestas 23)
+243251 ms ID:6 mando POST /temperatura id=6 temp=33
+243299.56 ms ID:1 coap temperatura nodo 6: 33 C (total 110)
+243385.016 ms ID:6 respuesta 2.04 rtt=134 ms (enviados 21, respuestas 21)
+244532 ms ID:3 mando POST /temperatura id=3 temp=31
+244548.272 ms ID:1 coap temperatura nodo 3: 31 C (total 111)
+244580.472 ms ID:3 respuesta 2.04 rtt=48 ms (enviados 23, respuestas 23)
+247925 ms ID:5 mando POST /temperatura id=5 temp=16
+247941.56 ms ID:1 coap temperatura nodo 5: 16 C (total 112)
+248009.016 ms ID:5 respuesta 2.04 rtt=84 ms (enviados 22, respuestas 22)
+250838 ms ID:4 mando POST /temperatura id=4 temp=31
+250877.272 ms ID:1 coap temperatura nodo 4: 31 C (total 113)
+250918.472 ms ID:4 respuesta 2.04 rtt=80 ms (enviados 24, respuestas 24)
+252730 ms ID:2 mando POST /temperatura id=2 temp=33
+252746.272 ms ID:1 coap temperatura nodo 2: 33 C (total 114)
+252765.472 ms ID:2 respuesta 2.04 rtt=35 ms (enviados 24, respuestas 24)
+253385 ms ID:6 mando POST /temperatura id=6 temp=27
+253456.56 ms ID:1 coap temperatura nodo 6: 27 C (total 115)
+253505.016 ms ID:6 respuesta 2.04 rtt=120 ms (enviados 22, respuestas 22)
+254580 ms ID:3 mando POST /temperatura id=3 temp=24
+254591.272 ms ID:1 coap temperatura nodo 3: 24 C (total 116)
+254628.472 ms ID:3 respuesta 2.04 rtt=48 ms (enviados 24, respuestas 24)
+258009 ms ID:5 mando POST /temperatura id=5 temp=23
+258035.56 ms ID:1 coap temperatura nodo 5: 23 C (total 117)
+258053.016 ms ID:5 respuesta 2.04 rtt=44 ms (enviados 23, respuestas 23)
+260918 ms ID:4 mando POST /temperatura id=4 temp=34
+260956.272 ms ID:1 coap temperatura nodo 4: 34 C (total 118)
+260973.472 ms ID:4 respuesta 2.04 rtt=55 ms (enviados 25, respuestas 25)
+262765 ms ID:2 mando POST /temperatura id=2 temp=21
+262810.272 ms ID:1 coap temperatura nodo 2: 21 C (total 119)
+262824.472 ms ID:2 respuesta 2.04 rtt=59 ms (enviados 25, respuestas 25)
+263505 ms ID:6 mando POST /temperatura id=6 temp=19
+263545.56 ms ID:1 coap temperatura nodo 6: 19 C (total 120)
+263606.016 ms ID:6 respuesta 2.04 rtt=101 ms (enviados 23, respuestas 23)
+264628 ms ID:3 mando POST /temperatura id=3 temp=32
+264662.272 ms ID:1 coap temperatura nodo 3: 32 C (total 121)
+264676.472 ms ID:3 respuesta 2.04 rtt=48 ms (enviados 25, respuestas 25)
+268053 ms ID:5 mando POST /temperatura id=5 temp=21
+268070.56 ms ID:1 coap temperatura nodo 5: 21 C (total 122)
+268122.016 ms ID:5 respuesta 2.04 rtt=69 ms (enviados 24, respuestas 24)
+270973 ms ID:4 mando POST /temperatura id=4 temp=26
+271005.272 ms ID:1 coap temperatura nodo 4: 26 C (total 123)
+271011.472 ms ID:4 respuesta 2.04 rtt=38 ms (enviados 26, respuestas 26)
+272824 ms ID:2 mando POST /temperatura id=2 temp=17
+272853.272 ms ID:1 coap temperatura nodo 2: 17 C (total 124)
+272879.472 ms ID:2 respuesta 2.04 rtt=55 ms (enviados 26, respuestas 26)
+273606 ms ID:6 mando POST /temperatura id=6 temp=24
+273684.56 ms ID:1 coap temperatura nodo 6: 24 C (total 125)
+273725.016 ms ID:6 respuesta 2.04 rtt=119 ms (enviados 24, respuestas 24)
+274676 ms ID:3 mando POST /temperatura id=3 temp=15
+274682.272 ms ID:1 coap temperatura nodo 3: 15 C (total 126)
+274725.472 ms ID:3 respuesta 2.04 rtt=49 ms (enviados 26, respuestas 26)
+278122 ms ID:5 mando POST /temperatura id=5 temp=34
+278199.56 ms ID:1 coap temperatura nodo 5: 34 C (total 127)
+278249.016 ms ID:5 respuesta 2.04 rtt=127 ms (enviados 25, respuestas 25)
+281011 ms ID:4 mando POST /temperatura id=4 temp=24
+281047.272 ms ID:1 coap temperatura nodo 4: 24 C (total 128)
+281092.472 ms ID:4 respuesta 2.04 rtt=81 ms (enviados 27, respuestas 27)
+282879 ms ID:2 mando POST /temperatura id=2 temp=31
+282917.272 ms ID:1 coap temperatura nodo 2: 31 C (total 129)
+282959.472 ms ID:2 respuesta 2.04 rtt=80 ms (enviados 27, respuestas 27)
+283725 ms ID:6 mando POST /temperatura id=6 temp=18
+283753.56 ms ID:1 coap temperatura nodo 6: 18 C (total 130)
+283796.016 ms ID:6 respuesta 2.04 rtt=71 ms (enviados 25, respuestas 25)
+284725 ms ID:3 mando POST /temperatura id=3 temp=34
+284747.272 ms ID:1 coap temperatura nodo 3: 34 C (total 131)
+284773.472 ms ID:3 respuesta 2.04 rtt=48 ms (enviados 27, respuestas 27)
+288249 ms ID:5 mando POST /temperatura id=5 temp=17
+288289.56 ms ID:1 coap temperatura nodo 5: 17 C (total 132)
+288370.016 ms ID:5 respuesta 2.04 rtt=121 ms (enviados 26, respuestas 26)
+291092 ms ID:4 mando POST /temperatura id=4 temp=16
+291122.272 ms ID:1 coap temperatura nodo 4: 16 C (total 133)
+291149.472 ms ID:4 respuesta 2.04 rtt=57 ms (enviados 28, respuestas 28)
+292959 ms ID:2 mando POST /temperatura id=2 temp=19
+292982.272 ms ID:1 coap temperatura nodo 2: 19 C (total 134)
+293025.472 ms ID:2 respuesta 2.04 rtt=66 ms (enviados 28, respuestas 28)
+293796 ms ID:6 mando POST /temperatura id=6 temp=32
+293853.56 ms ID:1 coap temperatura nodo 6: 32 C (total 135)
+293907.016 ms ID:6 respuesta 2.04 rtt=111 ms (enviados 26, respuestas 26)
+294773 ms ID:3 mando POST /temperatura id=3 temp=28
+294781.272 ms ID:1 coap temperatura nodo 3: 28 C (total 136)
+294803.472 ms ID:3 respuesta 2.04 rtt=30 ms (enviados 28, respuestas 28)
+298370 ms ID:5 mando POST /temperatura id=5 temp=19
+298422.56 ms ID:1 coap temperatura nodo 5: 19 C (total 137)
+298463.016 ms ID:5 respuesta 2.04 rtt=93 ms (enviados 27, respuestas 27)
