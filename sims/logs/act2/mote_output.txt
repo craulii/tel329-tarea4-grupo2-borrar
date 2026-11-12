@@ -1,0 +1,472 @@
+236 ms ID:2 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+236 ms ID:2 [INFO: Main      ] - Routing: RPL Lite
+236 ms ID:2 [INFO: Main      ] - Net: sicslowpan
+236 ms ID:2 [INFO: Main      ] - MAC: CSMA
+236 ms ID:2 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+236 ms ID:2 [INFO: Main      ] - 802.15.4 Default channel: 26
+236 ms ID:2 [INFO: Main      ] Node ID: 2
+236 ms ID:2 [INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+236 ms ID:2 [INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+250 ms ID:6 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+250 ms ID:6 [INFO: Main      ] - Routing: RPL Lite
+250 ms ID:6 [INFO: Main      ] - Net: sicslowpan
+250 ms ID:6 [INFO: Main      ] - MAC: CSMA
+250 ms ID:6 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+250 ms ID:6 [INFO: Main      ] - 802.15.4 Default channel: 26
+250 ms ID:6 [INFO: Main      ] Node ID: 6
+250 ms ID:6 [INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+250 ms ID:6 [INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+348 ms ID:4 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+348 ms ID:4 [INFO: Main      ] - Routing: RPL Lite
+348 ms ID:4 [INFO: Main      ] - Net: sicslowpan
+348 ms ID:4 [INFO: Main      ] - MAC: CSMA
+348 ms ID:4 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+348 ms ID:4 [INFO: Main      ] - 802.15.4 Default channel: 26
+348 ms ID:4 [INFO: Main      ] Node ID: 4
+348 ms ID:4 [INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+348 ms ID:4 [INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+382 ms ID:1 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+382 ms ID:1 [INFO: Main      ] - Routing: RPL Lite
+382 ms ID:1 [INFO: Main      ] - Net: sicslowpan
+382 ms ID:1 [INFO: Main      ] - MAC: CSMA
+382 ms ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+382 ms ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+382 ms ID:1 [INFO: Main      ] Node ID: 1
+382 ms ID:1 [INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+382 ms ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+382 ms ID:1 [INFO: RPL BR    ] Contiki-NG Border Router started
+382 ms ID:1 [INFO: BR        ] RPL-Border router started
+715 ms ID:5 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+715 ms ID:5 [INFO: Main      ] - Routing: RPL Lite
+715 ms ID:5 [INFO: Main      ] - Net: sicslowpan
+715 ms ID:5 [INFO: Main      ] - MAC: CSMA
+715 ms ID:5 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+715 ms ID:5 [INFO: Main      ] - 802.15.4 Default channel: 26
+715 ms ID:5 [INFO: Main      ] Node ID: 5
+715 ms ID:5 [INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+715 ms ID:5 [INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+899 ms ID:3 [INFO: Main      ] Starting Contiki-NG-develop/v5.2-19-gcb28c32ec
+899 ms ID:3 [INFO: Main      ] - Routing: RPL Lite
+899 ms ID:3 [INFO: Main      ] - Net: sicslowpan
+899 ms ID:3 [INFO: Main      ] - MAC: CSMA
+899 ms ID:3 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+899 ms ID:3 [INFO: Main      ] - 802.15.4 Default channel: 26
+899 ms ID:3 [INFO: Main      ] Node ID: 3
+899 ms ID:3 [INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+899 ms ID:3 [INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+1382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+2382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+3382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+4382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+5382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+6382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+7382 ms ID:1 ?P[INFO: BR        ] Waiting for prefix
+7382 ms ID:1 [INFO: BR        ] Server IPv6 addresses:
+7382 ms ID:1 [INFO: BR        ]   fd00::201:1:1:1
+7382 ms ID:1 [INFO: BR        ]   fe80::201:1:1:1
+13581 ms ID:3 todavia no estoy en la red
+13813 ms ID:2 todavia no estoy en la red
+15794 ms ID:5 todavia no estoy en la red
+17461 ms ID:4 todavia no estoy en la red
+19093 ms ID:6 todavia no estoy en la red
+23581 ms ID:3 conectando a [fd00::1]:1883 como tel329-nodo-3
+23763.304 ms ID:3 conectado al broker
+23813 ms ID:2 todavia no estoy en la red
+25794 ms ID:5 todavia no estoy en la red
+27461 ms ID:4 conectando a [fd00::1]:1883 como tel329-nodo-4
+27903.304 ms ID:4 conectado al broker
+29093 ms ID:6 todavia no estoy en la red
+33581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":17} (mid 3)
+33641.304 ms ID:3 puback mid=3 rtt=60 ms (enviados 1, confirmados 1)
+33813 ms ID:2 conectando a [fd00::1]:1883 como tel329-nodo-2
+34290.304 ms ID:2 conectado al broker
+35794 ms ID:5 todavia no estoy en la red
+37461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":18} (mid 3)
+37485.304 ms ID:4 puback mid=3 rtt=24 ms (enviados 1, confirmados 1)
+39093 ms ID:6 todavia no estoy en la red
+43581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":27} (mid 5)
+43631.304 ms ID:3 puback mid=5 rtt=50 ms (enviados 2, confirmados 2)
+43813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":30} (mid 3)
+43879.304 ms ID:2 puback mid=3 rtt=66 ms (enviados 1, confirmados 1)
+45794 ms ID:5 conectando a [fd00::1]:1883 como tel329-nodo-5
+46154.56 ms ID:5 conectado al broker
+47461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":15} (mid 5)
+47511.304 ms ID:4 puback mid=5 rtt=50 ms (enviados 2, confirmados 2)
+49093 ms ID:6 conectando a [fd00::1]:1883 como tel329-nodo-6
+49416.56 ms ID:6 conectado al broker
+53581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":19} (mid 7)
+53666.304 ms ID:3 puback mid=7 rtt=85 ms (enviados 3, confirmados 3)
+53813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":34} (mid 5)
+53889.304 ms ID:2 puback mid=5 rtt=76 ms (enviados 2, confirmados 2)
+55794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":32} (mid 3)
+55875.56 ms ID:5 puback mid=3 rtt=81 ms (enviados 1, confirmados 1)
+57461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":19} (mid 7)
+57496.304 ms ID:4 puback mid=7 rtt=35 ms (enviados 3, confirmados 3)
+59093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":29} (mid 3)
+59245.56 ms ID:6 puback mid=3 rtt=152 ms (enviados 1, confirmados 1)
+63581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":18} (mid 9)
+63648.304 ms ID:3 puback mid=9 rtt=67 ms (enviados 4, confirmados 4)
+63813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":17} (mid 7)
+63838.304 ms ID:2 puback mid=7 rtt=25 ms (enviados 3, confirmados 3)
+65794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":27} (mid 5)
+65893.56 ms ID:5 puback mid=5 rtt=99 ms (enviados 2, confirmados 2)
+67461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":16} (mid 9)
+67546.304 ms ID:4 puback mid=9 rtt=85 ms (enviados 4, confirmados 4)
+69093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":30} (mid 5)
+69206.56 ms ID:6 puback mid=5 rtt=113 ms (enviados 2, confirmados 2)
+73581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":29} (mid 11)
+73625.304 ms ID:3 puback mid=11 rtt=44 ms (enviados 5, confirmados 5)
+73813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":33} (mid 9)
+73854.304 ms ID:2 puback mid=9 rtt=41 ms (enviados 4, confirmados 4)
+75794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":22} (mid 7)
+75849.56 ms ID:5 puback mid=7 rtt=55 ms (enviados 3, confirmados 3)
+77461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":28} (mid 11)
+77500.304 ms ID:4 puback mid=11 rtt=39 ms (enviados 5, confirmados 5)
+79093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":17} (mid 7)
+79205.56 ms ID:6 puback mid=7 rtt=112 ms (enviados 3, confirmados 3)
+83581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":34} (mid 13)
+83630.304 ms ID:3 puback mid=13 rtt=49 ms (enviados 6, confirmados 6)
+83813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":19} (mid 11)
+83834.52 ms ID:1 `Tￜ@:@ﾁﾭw9jmQ !"#$%&'()*+,-./01234567`Tￜ@:@ﾁ,Vx9j7ﾨ !"#$%&'()*+,-./01234567`?[`ￄﾌￄ`?[zￏￋPￄX`1?[zￏￋPￄKMQIsdp<tel329-nodo-3`?[zￏￏPￄXￃ`?[`ￄﾌￄ`?[ﾨﾟPￄ`1?[ﾨﾟPￄﾁuMQIsdp<tel329-nodo-4`?[ﾨﾟPￄ`B?[zￏￏPￄ.ﾴ2,usm/tel329/temperatura{"id":3,"temp":17}`?[LzￏￓPￄXﾑ`?[`ￄﾌￄ`?[ﾙUTPￄ6ﾼ`1?[ﾙUTPￄￗ#MQIsdp<tel329-nodo-2`?[ﾙUXPￄ6ﾛ`B?[ﾨﾟPￄﾶ2,usm/tel329/temperatura{"id":4,"temp":18}`?[LﾨﾟPￄﾺ`B?[LzￏￓPￄ.2,usm/tel329/temperatura{"id":3,"temp":27}`?[zzￏￗPￄX_`B?[ﾙUXPￄﾊ2,usm/tel329/temperatura{"id":2,"temp":30}`?[LﾙU\Pￄ6i`>[`ￄﾌￄ`>[wﾲﾛPￄP`1>[wﾲﾛPￄﾴﾷMQIsdp<tel329-nodo-5`>[wﾲﾟPￄ/`B?[LﾨﾟPￄﾹﾩ2,usm/tel329/temperatura{"id":4,"temp":15}`?[zﾨﾟPￄﾈ`>[`ￄﾌￜￄ`>[ﾈSSﾒPￄￇﾳ`1>[ﾈSSﾒPￄdMQIsdp<tel329-nodo-6`>[ﾈSSﾖPￄￇﾒ`B?[zzￏￗPￄ,L2,usm/tel329/temperatura{"id":3,"temp":19}`?[ﾨzￏￛPￄX-`B?[LﾙU\PￄV2,usm/tel329/temperatura{"id":2,"temp":34}`?[zﾙU`Pￄ67`B>[wﾲﾟPￄ2,usm/tel329/temperatura{"id":5,"temp":32}`>[LwﾲﾣPￄ`B?[zﾨﾟPￄﾵu2,usm/tel329/temperatura{"id":4,"temp":19}`?[ﾨﾨﾟPￄV`B>[ﾈSSﾖPￄﾘﾂ2,usm/tel329/temperatura{"id":6,"temp":29}`>[LﾈSSﾚPￄￇ``B?[ﾨzￏￛPￄ-2,usm/tel329/temperatura	{"id":3,"temp":18}`?[ￖzￏPￄW`B?[zﾙU`Pￄ$2,usm/tel329/temperatura{"id":2,"temp":17}`?[ﾨﾙUdPￄ6`B>[LwﾲﾣPￄ2,usm/tel329/temperatura{"id":5,"temp":27}`>[zwﾲﾧPￄￋ`B?[ﾨﾨﾟPￄﾸA2,usm/tel329/temperatura	{"id":4,"temp":16}`?[ￖﾨﾟPￄ$`B>[LﾈSSﾚPￄﾡM2,usm/tel329/temperatura{"id":6,"temp":30}`>[zﾈSSﾞPￄￇ.`B?[ￖzￏPￄ+2,usm/tel329/temperatura{"id":3,"temp":29}`?[zￏPￄW`B?[ﾨﾙUdPￄ2,usm/tel329/temperatura	{"id":2,"temp":33}`?[ￖﾙUhPￄ5ￓ`B>[zwﾲﾧPￄﾶ2,usm/tel329/temperatura{"id":5,"temp":22}`>[ﾨwﾲﾫPￄﾙ`B?[ￖﾨﾟPￄﾶ2,usm/tel329/temperatura{"id":4,"temp":28}`?[ﾨﾟPￄ`B>[zﾈSSﾞPￄﾚ2,usm/tel329/temperatura{"id":6,"temp":17}`>[ﾨﾈSSﾢPￄￆ`B?[zￏPￄ0ﾮ2,usm/tel329/temperatura{"id":3,"temp":34}`?[2zￏPￄWﾗ`B?[ￖﾙUhPￄ
+83846.304 ms ID:2 puback mid=11 rtt=33 ms (enviados 5, confirmados 5)
+85794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":24} (mid 9)
+85880.56 ms ID:5 puback mid=9 rtt=86 ms (enviados 4, confirmados 4)
+87461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":23} (mid 13)
+87540.304 ms ID:4 puback mid=13 rtt=79 ms (enviados 6, confirmados 6)
+89093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":27} (mid 9)
+89214.56 ms ID:6 puback mid=9 rtt=121 ms (enviados 4, confirmados 4)
+93581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":28} (mid 15)
+93616.304 ms ID:3 puback mid=15 rtt=35 ms (enviados 7, confirmados 7)
+93813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":21} (mid 13)
+93841.304 ms ID:2 puback mid=13 rtt=28 ms (enviados 6, confirmados 6)
+95794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":15} (mid 11)
+95879.56 ms ID:5 puback mid=11 rtt=85 ms (enviados 5, confirmados 5)
+97461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":18} (mid 15)
+97510.304 ms ID:4 puback mid=15 rtt=49 ms (enviados 7, confirmados 7)
+99093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":24} (mid 11)
+99205.56 ms ID:6 puback mid=11 rtt=112 ms (enviados 5, confirmados 5)
+103581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":19} (mid 17)
+103632.304 ms ID:3 puback mid=17 rtt=51 ms (enviados 8, confirmados 8)
+103813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":24} (mid 15)
+103838.304 ms ID:2 puback mid=15 rtt=25 ms (enviados 7, confirmados 7)
+105794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":30} (mid 13)
+105890.56 ms ID:5 puback mid=13 rtt=96 ms (enviados 6, confirmados 6)
+107461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":22} (mid 17)
+107538.304 ms ID:4 puback mid=17 rtt=77 ms (enviados 8, confirmados 8)
+109093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":30} (mid 13)
+109229.56 ms ID:6 puback mid=13 rtt=136 ms (enviados 6, confirmados 6)
+113581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":26} (mid 19)
+113649.304 ms ID:3 puback mid=19 rtt=68 ms (enviados 9, confirmados 9)
+113813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":20} (mid 17)
+113880.304 ms ID:2 puback mid=17 rtt=67 ms (enviados 8, confirmados 8)
+115794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":34} (mid 15)
+115917.56 ms ID:5 puback mid=15 rtt=123 ms (enviados 7, confirmados 7)
+117461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":19} (mid 19)
+117508.304 ms ID:4 puback mid=19 rtt=47 ms (enviados 9, confirmados 9)
+119093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":15} (mid 15)
+119211.56 ms ID:6 puback mid=15 rtt=118 ms (enviados 7, confirmados 7)
+123581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":15} (mid 21)
+123599.304 ms ID:3 puback mid=21 rtt=18 ms (enviados 10, confirmados 10)
+123813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":34} (mid 19)
+123849.304 ms ID:2 puback mid=19 rtt=36 ms (enviados 9, confirmados 9)
+125794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":34} (mid 17)
+125881.56 ms ID:5 puback mid=17 rtt=87 ms (enviados 8, confirmados 8)
+127461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":30} (mid 21)
+127505.304 ms ID:4 puback mid=21 rtt=44 ms (enviados 10, confirmados 10)
+129093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":24} (mid 17)
+129243.56 ms ID:6 puback mid=17 rtt=150 ms (enviados 8, confirmados 8)
+133581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":22} (mid 23)
+133649.304 ms ID:3 puback mid=23 rtt=68 ms (enviados 11, confirmados 11)
+133813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":33} (mid 21)
+133882.304 ms ID:2 puback mid=21 rtt=69 ms (enviados 10, confirmados 10)
+135794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":18} (mid 19)
+135917.12 ms ID:5 puback mid=19 rtt=123 ms (enviados 9, confirmados 9)
+137461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":16} (mid 23)
+137536.304 ms ID:4 puback mid=23 rtt=75 ms (enviados 11, confirmados 11)
+139093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":22} (mid 19)
+139182.56 ms ID:6 puback mid=19 rtt=89 ms (enviados 9, confirmados 9)
+143581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":22} (mid 25)
+143635.304 ms ID:3 puback mid=25 rtt=54 ms (enviados 12, confirmados 12)
+143813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":26} (mid 23)
+143898.304 ms ID:2 puback mid=23 rtt=85 ms (enviados 11, confirmados 11)
+145794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":16} (mid 21)
+145882.56 ms ID:5 puback mid=21 rtt=88 ms (enviados 10, confirmados 10)
+147461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":29} (mid 25)
+147517.304 ms ID:4 puback mid=25 rtt=56 ms (enviados 12, confirmados 12)
+149093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":21} (mid 21)
+149212.56 ms ID:6 puback mid=21 rtt=119 ms (enviados 10, confirmados 10)
+153581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":29} (mid 27)
+153599.304 ms ID:3 puback mid=27 rtt=18 ms (enviados 13, confirmados 13)
+153813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":17} (mid 25)
+153829.304 ms ID:2 puback mid=25 rtt=16 ms (enviados 12, confirmados 12)
+155794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":30} (mid 23)
+155920.56 ms ID:5 puback mid=23 rtt=126 ms (enviados 11, confirmados 11)
+157461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":28} (mid 27)
+157490.304 ms ID:4 puback mid=27 rtt=29 ms (enviados 13, confirmados 13)
+159093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":33} (mid 23)
+159216.56 ms ID:6 puback mid=23 rtt=123 ms (enviados 11, confirmados 11)
+163581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":34} (mid 29)
+163620.304 ms ID:3 puback mid=29 rtt=39 ms (enviados 14, confirmados 14)
+163813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":26} (mid 27)
+163860.304 ms ID:2 puback mid=27 rtt=47 ms (enviados 13, confirmados 13)
+165794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":18} (mid 25)
+165926.56 ms ID:5 puback mid=25 rtt=132 ms (enviados 12, confirmados 12)
+167461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":25} (mid 29)
+167543.304 ms ID:4 puback mid=29 rtt=82 ms (enviados 14, confirmados 14)
+169093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":29} (mid 25)
+169186.56 ms ID:6 puback mid=25 rtt=93 ms (enviados 12, confirmados 12)
+173581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":30} (mid 31)
+173641.304 ms ID:3 puback mid=31 rtt=60 ms (enviados 15, confirmados 15)
+173813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":30} (mid 29)
+173881.304 ms ID:2 puback mid=29 rtt=68 ms (enviados 14, confirmados 14)
+175794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":15} (mid 27)
+175893.56 ms ID:5 puback mid=27 rtt=99 ms (enviados 13, confirmados 13)
+177461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":27} (mid 31)
+177524.304 ms ID:4 puback mid=31 rtt=63 ms (enviados 15, confirmados 15)
+179093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":26} (mid 27)
+179213.56 ms ID:6 puback mid=27 rtt=120 ms (enviados 13, confirmados 13)
+183581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":22} (mid 33)
+183613.304 ms ID:3 puback mid=33 rtt=32 ms (enviados 16, confirmados 16)
+183813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":28} (mid 31)
+183864.304 ms ID:2 puback mid=31 rtt=51 ms (enviados 15, confirmados 15)
+185794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":33} (mid 29)
+185855.56 ms ID:5 puback mid=29 rtt=61 ms (enviados 14, confirmados 14)
+187461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":18} (mid 33)
+187485.304 ms ID:4 puback mid=33 rtt=24 ms (enviados 16, confirmados 16)
+189093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":31} (mid 29)
+189211.56 ms ID:6 puback mid=29 rtt=118 ms (enviados 14, confirmados 14)
+193581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":23} (mid 35)
+193605.304 ms ID:3 puback mid=35 rtt=24 ms (enviados 17, confirmados 17)
+193813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":26} (mid 33)
+193887.304 ms ID:2 puback mid=33 rtt=74 ms (enviados 16, confirmados 16)
+195794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":19} (mid 31)
+195868.56 ms ID:5 puback mid=31 rtt=74 ms (enviados 15, confirmados 15)
+197461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":28} (mid 35)
+197484.304 ms ID:4 puback mid=35 rtt=23 ms (enviados 17, confirmados 17)
+199093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":32} (mid 31)
+199223.56 ms ID:6 puback mid=31 rtt=130 ms (enviados 15, confirmados 15)
+203581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":20} (mid 37)
+203640.304 ms ID:3 puback mid=37 rtt=59 ms (enviados 18, confirmados 18)
+203813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":15} (mid 35)
+203870.304 ms ID:2 puback mid=35 rtt=57 ms (enviados 17, confirmados 17)
+205794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":30} (mid 33)
+205867.56 ms ID:5 puback mid=33 rtt=73 ms (enviados 16, confirmados 16)
+207461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":27} (mid 37)
+207520.304 ms ID:4 puback mid=37 rtt=59 ms (enviados 18, confirmados 18)
+209093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":33} (mid 33)
+209203.56 ms ID:6 puback mid=33 rtt=110 ms (enviados 16, confirmados 16)
+213581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":24} (mid 39)
+213641.304 ms ID:3 puback mid=39 rtt=60 ms (enviados 19, confirmados 19)
+213813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":34} (mid 37)
+213855.304 ms ID:2 puback mid=37 rtt=42 ms (enviados 18, confirmados 18)
+215794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":27} (mid 35)
+215860.56 ms ID:5 puback mid=35 rtt=66 ms (enviados 17, confirmados 17)
+217461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":15} (mid 39)
+217503.304 ms ID:4 puback mid=39 rtt=42 ms (enviados 19, confirmados 19)
+219093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":30} (mid 35)
+219198.56 ms ID:6 puback mid=35 rtt=105 ms (enviados 17, confirmados 17)
+223581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":30} (mid 41)
+223671.304 ms ID:3 puback mid=41 rtt=90 ms (enviados 20, confirmados 20)
+223813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":27} (mid 39)
+223861.304 ms ID:2 puback mid=39 rtt=48 ms (enviados 19, confirmados 19)
+225794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":17} (mid 37)
+225926.56 ms ID:5 puback mid=37 rtt=132 ms (enviados 18, confirmados 18)
+227461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":17} (mid 41)
+227540.304 ms ID:4 puback mid=41 rtt=79 ms (enviados 20, confirmados 20)
+229093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":26} (mid 37)
+229239.56 ms ID:6 puback mid=37 rtt=146 ms (enviados 18, confirmados 18)
+233581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":23} (mid 43)
+233662.304 ms ID:3 puback mid=43 rtt=81 ms (enviados 21, confirmados 21)
+233813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":31} (mid 41)
+233881.304 ms ID:2 puback mid=41 rtt=68 ms (enviados 20, confirmados 20)
+235794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":20} (mid 39)
+235884.56 ms ID:5 puback mid=39 rtt=90 ms (enviados 19, confirmados 19)
+237461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":18} (mid 43)
+237546.304 ms ID:4 puback mid=43 rtt=85 ms (enviados 21, confirmados 21)
+239093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":33} (mid 39)
+239155.56 ms ID:6 puback mid=39 rtt=62 ms (enviados 19, confirmados 19)
+243581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":28} (mid 45)
+243639.304 ms ID:3 puback mid=45 rtt=58 ms (enviados 22, confirmados 22)
+243813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":28} (mid 43)
+243850.304 ms ID:2 puback mid=43 rtt=37 ms (enviados 21, confirmados 21)
+245794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":33} (mid 41)
+245943.56 ms ID:5 puback mid=41 rtt=149 ms (enviados 20, confirmados 20)
+247461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":30} (mid 45)
+247512.304 ms ID:4 puback mid=45 rtt=51 ms (enviados 22, confirmados 22)
+249093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":28} (mid 41)
+249174.56 ms ID:6 puback mid=41 rtt=81 ms (enviados 20, confirmados 20)
+253581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":27} (mid 47)
+253613.304 ms ID:3 puback mid=47 rtt=32 ms (enviados 23, confirmados 23)
+253813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":23} (mid 45)
+253850.304 ms ID:2 puback mid=45 rtt=37 ms (enviados 22, confirmados 22)
+255794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":16} (mid 43)
+255838.56 ms ID:5 puback mid=43 rtt=44 ms (enviados 21, confirmados 21)
+257461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":31} (mid 47)
+257546.304 ms ID:4 puback mid=47 rtt=85 ms (enviados 23, confirmados 23)
+259093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":26} (mid 43)
+259206.56 ms ID:6 puback mid=43 rtt=113 ms (enviados 21, confirmados 21)
+263581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":15} (mid 49)
+263648.304 ms ID:3 puback mid=49 rtt=67 ms (enviados 24, confirmados 24)
+263813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":27} (mid 47)
+263898.304 ms ID:2 puback mid=47 rtt=85 ms (enviados 23, confirmados 23)
+265794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":23} (mid 45)
+265862.56 ms ID:5 puback mid=45 rtt=68 ms (enviados 22, confirmados 22)
+267461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":34} (mid 49)
+267529.304 ms ID:4 puback mid=49 rtt=68 ms (enviados 24, confirmados 24)
+269093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":32} (mid 45)
+269200.12 ms ID:6 puback mid=45 rtt=107 ms (enviados 22, confirmados 22)
+273581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":24} (mid 51)
+273641.304 ms ID:3 puback mid=51 rtt=60 ms (enviados 25, confirmados 25)
+273813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":32} (mid 49)
+273889.304 ms ID:2 puback mid=49 rtt=76 ms (enviados 24, confirmados 24)
+275794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":15} (mid 47)
+275931.56 ms ID:5 puback mid=47 rtt=137 ms (enviados 23, confirmados 23)
+275950.336 ms ID:1 # [1024 bytes, no line ending]: ﾼ2,usm/tel329/temper...
+277461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":21} (mid 51)
+277500.304 ms ID:4 puback mid=51 rtt=39 ms (enviados 25, confirmados 25)
+277526.048 ms ID:1 [@wﾲPￄﾱ`B?[nﾨﾟXPￄﾸ2,usm/tel329/temperatura3{"id":4,"temp":21}`?[ﾜﾨﾟ\Pￄ
+279093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":24} (mid 47)
+279175.808 ms ID:1 `B>[ﾈSSPￄﾙ
+279257.56 ms ID:6 puback mid=47 rtt=164 ms (enviados 23, confirmados 23)
+283581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":20} (mid 53)
+283610.304 ms ID:3 puback mid=53 rtt=29 ms (enviados 26, confirmados 26)
+283813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":30} (mid 51)
+283863.304 ms ID:2 puback mid=51 rtt=50 ms (enviados 25, confirmados 25)
+285794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":30} (mid 49)
+285875.56 ms ID:5 puback mid=49 rtt=81 ms (enviados 24, confirmados 24)
+287461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":23} (mid 53)
+287509.304 ms ID:4 puback mid=53 rtt=48 ms (enviados 26, confirmados 26)
+289093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":24} (mid 49)
+289212.56 ms ID:6 puback mid=49 rtt=119 ms (enviados 24, confirmados 24)
+293581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":27} (mid 55)
+293650.304 ms ID:3 puback mid=55 rtt=69 ms (enviados 27, confirmados 27)
+293813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":27} (mid 53)
+293860.304 ms ID:2 puback mid=53 rtt=47 ms (enviados 26, confirmados 26)
+295794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":17} (mid 51)
+295912.56 ms ID:5 puback mid=51 rtt=118 ms (enviados 25, confirmados 25)
+297461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":20} (mid 55)
+297511.304 ms ID:4 puback mid=55 rtt=50 ms (enviados 27, confirmados 27)
+299093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":25} (mid 51)
+299222.12 ms ID:6 puback mid=51 rtt=129 ms (enviados 25, confirmados 25)
+303581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":15} (mid 57)
+303614.304 ms ID:3 puback mid=57 rtt=33 ms (enviados 28, confirmados 28)
+303813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":31} (mid 55)
+303847.304 ms ID:2 puback mid=55 rtt=34 ms (enviados 27, confirmados 27)
+305794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":19} (mid 53)
+305934.56 ms ID:5 puback mid=53 rtt=140 ms (enviados 26, confirmados 26)
+307461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":26} (mid 57)
+307507.304 ms ID:4 puback mid=57 rtt=46 ms (enviados 28, confirmados 28)
+309093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":32} (mid 53)
+309193.56 ms ID:6 puback mid=53 rtt=100 ms (enviados 26, confirmados 26)
+313581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":23} (mid 59)
+313602.304 ms ID:3 puback mid=59 rtt=21 ms (enviados 29, confirmados 29)
+313813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":22} (mid 57)
+313856.304 ms ID:2 puback mid=57 rtt=43 ms (enviados 28, confirmados 28)
+315794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":21} (mid 55)
+315907.56 ms ID:5 puback mid=55 rtt=113 ms (enviados 27, confirmados 27)
+317461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":30} (mid 59)
+317489.304 ms ID:4 puback mid=59 rtt=28 ms (enviados 29, confirmados 29)
+319093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":20} (mid 55)
+319229.56 ms ID:6 puback mid=55 rtt=136 ms (enviados 27, confirmados 27)
+323581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":19} (mid 61)
+323630.304 ms ID:3 puback mid=61 rtt=49 ms (enviados 30, confirmados 30)
+323813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":22} (mid 59)
+323851.304 ms ID:2 puback mid=59 rtt=38 ms (enviados 29, confirmados 29)
+325794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":29} (mid 57)
+325909.56 ms ID:5 puback mid=57 rtt=115 ms (enviados 28, confirmados 28)
+327461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":19} (mid 61)
+327514.304 ms ID:4 puback mid=61 rtt=53 ms (enviados 30, confirmados 30)
+329093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":18} (mid 57)
+329193.56 ms ID:6 puback mid=57 rtt=100 ms (enviados 28, confirmados 28)
+333581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":15} (mid 63)
+333620.304 ms ID:3 puback mid=63 rtt=39 ms (enviados 31, confirmados 31)
+333813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":19} (mid 61)
+333852.304 ms ID:2 puback mid=61 rtt=39 ms (enviados 30, confirmados 30)
+335794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":33} (mid 59)
+335904.56 ms ID:5 puback mid=59 rtt=110 ms (enviados 29, confirmados 29)
+337461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":19} (mid 63)
+337490.304 ms ID:4 puback mid=63 rtt=29 ms (enviados 31, confirmados 31)
+339093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":32} (mid 59)
+339182.56 ms ID:6 puback mid=59 rtt=89 ms (enviados 29, confirmados 29)
+339230.336 ms ID:1 2,usm/tel329/temperatura/{"id":6,"temp":24}`>[@ﾈSSPￄￃ`B?[ﾜz3Pￄ0ﾟ2,usm/tel329/temperatura5{"id":3,"temp":20}`?[ￊz7PￄSﾯ`B?[nﾙUﾸPￄﾪ2,usm/tel329/temperatura3{"id":2,"temp":30}`?[ﾜﾙUﾼPￄ1ﾹ`B>[@wﾲPￄq2,usm/tel329/temperatura1{"id":5,"temp":30}`>[nwﾲPￄ`B?[ﾜﾨﾟ\Pￄﾶ2,usm/tel329/temperatura5{"id":4,"temp":23}`?[ￊﾨﾟ`Pￄ`B>[@ﾈSSPￄﾘￖ2,usm/tel329/temperatura1{"id":6,"temp":24}`>[nﾈSSPￄￂ`B?[ￊz7Pￄ)k2,usm/tel329/temperatura7{"id":3,"temp":27}`?[z;PￄS}`B?[ﾜﾙUﾼPￄw2,usm/tel329/temperatura5{"id":2,"temp":27}`?[ￊﾙUￛￜPￄ1ﾇ`B>[nwﾲPￄ?2,usm/tel329/temperatura3{"id":5,"temp":17}`>[ﾜwﾲPￄM`B?[ￊﾨﾟ`Pￄﾹﾔ2,usm/tel329/temperatura7{"id":4,"temp":20}`?[ﾨﾟdPￄﾦ`B>[nﾈSSPￄﾗﾢ2,usm/tel329/temperatura3{"id":6,"temp":25}`>[ﾜﾈSSPￄￂﾰ`B?[z;Pￄ+82,usm/tel329/temperatura9{"id":3,"temp":15}`?[&z?PￄSK`B?[ￊﾙUￛￜPￄB2,usm/tel329/temperatura7{"id":2,"temp":31}`?[ﾙUￄPￄ1U`B>[ﾜwﾲPￄ2,usm/tel329/temperatura5{"id":5,"temp":19}`>[ￊwﾲPￄ`B?[ﾨﾟdPￄﾳ`2,usm/tel329/temperatura9{"id":4,"temp":26}`?[&ﾨﾟhPￄt`B>[ﾜﾈSSPￄﾚm2,usm/tel329/temperatura5{"id":6,"temp":32}`>[ￊﾈSSPￄￂ~`B?[&z?Pￄ-2,usm/tel329/temperatura;{"id":3,"temp":23}`?[TzCPￄS`B?[ﾙUￄPￄ2,usm/tel329/temperatura9{"id":2,"temp":22}`?[&ﾙUPￄ1#`B>[ￊwﾲPￄￖ2,usm/tel329/temperatura7{"id":5,"temp":21}`>[wﾲPￄ`B?[&ﾨﾟhPￄﾹ+2,usm/tel329/temperatura;{"id":4,"temp":30}`?[TﾨﾟlPￄB`B>[ￊﾈSSPￄﾜ:2,usm/tel329/temperatura7{"id":6,"temp":20}`>[ﾈSTPￄￂL`B?[TzCPￄ&2,usm/tel329/temperatura={"id":3,"temp":19}`?[ﾂzGPￄR`B?[&ﾙUPￄￛ2,usm/tel329/temperatura;{"id":2,"temp":22}`?[TﾙUￌPￄ0`B>[wﾲPￄﾢ2,usm/tel329/temperatura9{"id":5,"temp":29}`>[&wﾲPￄﾷ`B?[TﾨﾟlPￄﾯ2,usm/tel329/temperatura={"id":4,"temp":19}`?[ﾂﾨﾟpPￄ`B>[ﾈSTPￄﾔ2,usm/tel329/temperatura9{"id":6,"temp":18}`>[&ﾈSTPￄￂ`B?[ﾂzGPￄ*ﾜ2,usm/tel329/temperatura?{"id":3,"temp":15}`?[ﾰzKPￄRﾵ`B?[TﾙUￌPￄﾨ2,usm/tel329/temperatura={"id":2,"temp":19}`?[ﾂﾙUPￄ0`B>[&wﾲPￄm2,usm/tel329/temperatura;{"id":5,"temp":33}`>[TwﾲPￄﾅ`B?[ﾂﾨﾟpPￄﾯￅ2,usm/tel329/temperatura?{"id":4,"temp":19}`?[ﾰﾨﾟtPￄￜ`B>[&ﾈSTPￄﾙ2,usm/tel329/temperatura;{"id":6,"temp":32}`>[TﾈST
+343581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":34} (mid 65)
+343637.304 ms ID:3 puback mid=65 rtt=56 ms (enviados 32, confirmados 32)
+343813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":15} (mid 63)
+343884.304 ms ID:2 puback mid=63 rtt=71 ms (enviados 31, confirmados 31)
+345794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":24} (mid 61)
+345924.56 ms ID:5 puback mid=61 rtt=130 ms (enviados 30, confirmados 30)
+347461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":22} (mid 65)
+347519.304 ms ID:4 puback mid=65 rtt=58 ms (enviados 32, confirmados 32)
+349093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":30} (mid 61)
+349145.808 ms ID:1 Pￄ`B?[ﾰzKPￄ+f2,usm/tel329/temperaturaA{"id":3,"temp":34}`?[zOPￄRﾃ`B?[ﾂﾙUPￄ	t2,usm/tel329/temperatura?{"id":2,"temp":15}`?[ﾰﾙUￔPￄ0ﾍ`B>[TwﾲPￄ:2,usm/tel329/temperatura={"id":5,"temp":24}`>[ﾂwﾲPￄS`B?[ﾰﾨﾟtPￄﾶﾐ2,usm/tel329/temperaturaA{"id":4,"temp":22}`?[ﾨﾟxPￄￜﾬ`B>[TﾈST
+349206.56 ms ID:6 puback mid=61 rtt=113 ms (enviados 30, confirmados 30)
+353581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":26} (mid 67)
+353618.304 ms ID:3 puback mid=67 rtt=37 ms (enviados 33, confirmados 33)
+353813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":26} (mid 65)
+353894.304 ms ID:2 puback mid=65 rtt=81 ms (enviados 32, confirmados 32)
+355794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":17} (mid 63)
+355904.56 ms ID:5 puback mid=63 rtt=110 ms (enviados 31, confirmados 31)
+357461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":18} (mid 67)
+357522.304 ms ID:4 puback mid=67 rtt=61 ms (enviados 33, confirmados 33)
+359093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":22} (mid 63)
+359191.56 ms ID:6 puback mid=63 rtt=98 ms (enviados 31, confirmados 31)
+363581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":20} (mid 69)
+363649.304 ms ID:3 puback mid=69 rtt=68 ms (enviados 34, confirmados 34)
+363813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":28} (mid 67)
+363869.304 ms ID:2 puback mid=67 rtt=56 ms (enviados 33, confirmados 33)
+365794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":23} (mid 65)
+365879.56 ms ID:5 puback mid=65 rtt=85 ms (enviados 32, confirmados 32)
+367461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":26} (mid 69)
+367476.304 ms ID:4 puback mid=69 rtt=15 ms (enviados 34, confirmados 34)
+369093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":19} (mid 65)
+369159.56 ms ID:6 puback mid=65 rtt=66 ms (enviados 32, confirmados 32)
+373581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":33} (mid 71)
+373638.304 ms ID:3 puback mid=71 rtt=57 ms (enviados 35, confirmados 35)
+373813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":25} (mid 69)
+373849.304 ms ID:2 puback mid=69 rtt=36 ms (enviados 34, confirmados 34)
+375794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":16} (mid 67)
+375888.56 ms ID:5 puback mid=67 rtt=94 ms (enviados 33, confirmados 33)
+377461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":25} (mid 71)
+377522.304 ms ID:4 puback mid=71 rtt=61 ms (enviados 35, confirmados 35)
+379093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":18} (mid 67)
+379187.56 ms ID:6 puback mid=67 rtt=94 ms (enviados 33, confirmados 33)
+383581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":33} (mid 73)
+383641.304 ms ID:3 puback mid=73 rtt=60 ms (enviados 36, confirmados 36)
+383813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":22} (mid 71)
+383869.304 ms ID:2 puback mid=71 rtt=56 ms (enviados 35, confirmados 35)
+385794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":15} (mid 69)
+385934.56 ms ID:5 puback mid=69 rtt=140 ms (enviados 34, confirmados 34)
+387461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":27} (mid 73)
+387506.304 ms ID:4 puback mid=73 rtt=45 ms (enviados 36, confirmados 36)
+389093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":29} (mid 69)
+389152.56 ms ID:6 puback mid=69 rtt=59 ms (enviados 34, confirmados 34)
+393581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":23} (mid 75)
+393596.304 ms ID:3 puback mid=75 rtt=15 ms (enviados 37, confirmados 37)
+393813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":22} (mid 73)
+393867.304 ms ID:2 puback mid=73 rtt=54 ms (enviados 36, confirmados 36)
+395794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":30} (mid 71)
+395864.56 ms ID:5 puback mid=71 rtt=70 ms (enviados 35, confirmados 35)
+397461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":34} (mid 75)
+397512.304 ms ID:4 puback mid=75 rtt=51 ms (enviados 37, confirmados 37)
+399093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":31} (mid 71)
+399217.56 ms ID:6 puback mid=71 rtt=124 ms (enviados 35, confirmados 35)
+403581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":21} (mid 77)
+403634.304 ms ID:3 puback mid=77 rtt=53 ms (enviados 38, confirmados 38)
+403813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":21} (mid 75)
+403862.304 ms ID:2 puback mid=75 rtt=49 ms (enviados 37, confirmados 37)
+405794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":31} (mid 73)
+405910.12 ms ID:5 puback mid=73 rtt=116 ms (enviados 36, confirmados 36)
+407461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":34} (mid 77)
+407522.304 ms ID:4 puback mid=77 rtt=61 ms (enviados 38, confirmados 38)
+409093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":17} (mid 73)
+409182.56 ms ID:6 puback mid=73 rtt=89 ms (enviados 36, confirmados 36)
+413581 ms ID:3 publico en usm/tel329/temperatura: {"id":3,"temp":33} (mid 79)
+413658.304 ms ID:3 puback mid=79 rtt=77 ms (enviados 39, confirmados 39)
+413813 ms ID:2 publico en usm/tel329/temperatura: {"id":2,"temp":34} (mid 77)
+413883.304 ms ID:2 puback mid=77 rtt=70 ms (enviados 38, confirmados 38)
+415794 ms ID:5 publico en usm/tel329/temperatura: {"id":5,"temp":23} (mid 75)
+415916.56 ms ID:5 puback mid=75 rtt=122 ms (enviados 37, confirmados 37)
+417461 ms ID:4 publico en usm/tel329/temperatura: {"id":4,"temp":20} (mid 79)
+417492.304 ms ID:4 puback mid=79 rtt=31 ms (enviados 39, confirmados 39)
+419093 ms ID:6 publico en usm/tel329/temperatura: {"id":6,"temp":24} (mid 75)
+419158.12 ms ID:6 puback mid=75 rtt=65 ms (enviados 37, confirmados 37)
